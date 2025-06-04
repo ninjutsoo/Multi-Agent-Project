@@ -46,4 +46,4 @@ MANIFEST
 
 # Large data files (uncomment if needed)
 # *.csv
-# *.json 
+# *.json .env
