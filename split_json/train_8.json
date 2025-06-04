@@ -1,0 +1,34 @@
+[
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"nsclca\", \"dka\"],\n    \"discharge_diagnoses\": [\"diabetic ketoacidosis\", \"gastroparesis with dilated stomach and esophagus\", \"metastatic lung cancer\"],\n    \"high_risk_medications\": [\"morphine\", \"insulin glargine\"],\n    \"follow_up_instructions\": [\"[**first name8 (namepattern2) 251**] [**name11 (nameis) **], md\", \"[**first name8 (namepattern2) 25**] [**last name (namepattern1) **], md\", \"[**name10 (nameis) **]\", \"[**name11 (nameis) **]\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"aortic stenosis in 2021\"],\n    \"discharge_diagnoses\": [\"aortic stenosis\", \"hyperlipidemia\", \"hypertension\", \"s/p avr replacement (21 porcine)/aortotomy\"],\n    \"high_risk_medications\": [\"oxycodone-acetaminophen\", \"metoprolol tartrate\", \"aspirin\", \"atorvastatin\", \"lisinopril\", \"prempro\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Wound check in cardiac surgery office\", \"Appointment with primary care provider in 3-9 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"alert and oriented x3 nonfocal ambulating with steady gait incisional pain managed with oral analgesia\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"COPD exacerbation in 2021\"],\n    \"discharge_diagnoses\": [\"Pneumonia\", \"COPD exacerbation\", \"Schizophrenia\"],\n    \"high_risk_medications\": [\"Prednisone\", \"Olanzapine\", \"Aspirin\", \"Albuterol\", \"Tiotropium\", \"Fluticasone-Salmeterol\", \"Ipratropium\"],\n    \"follow_up_instructions\": [\"Cardiology in 1 week\", \"Home Health Aide on 4-28\"],\n    \"discharge_disposition\": \"Home with service\",\n    \"condition_at_discharge\": \"Stable, ambulatory, on home oxygen levels\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"polysubstance abuse, alcohol withdrawal\", \"hepatitis c\"],\n    \"discharge_diagnoses\": [\"alcohol withdrawal\", \"comminuted nasal fracture\", \"alcohol abuse\", \"depression\", \"anxiety\"],\n    \"high_risk_medications\": [\"oxycodone\", \"gabapentin\", \"quetiapine\"],\n    \"follow_up_instructions\": [\"plastic surgery appointment on 2180-8-18 1:30\", \"referral from mass health provider needed before plastic surgery appointment\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF exacerbation in 2177\"],\n    \"discharge_diagnoses\": [\"acute on chronic systolic congestive heart failure\", \"pneumonia\", \"COPD\", \"dilated cardiomyopathy\"],\n    \"high_risk_medications\": [\"amiodarone\", \"levofloxacin\", \"warfarin\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Cardiac device clinic in 2020-01-29\", \"Electrophysiology on 2069-11-29\", \"Primary care in 2 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"angioedema in 2187\"],\n    \"discharge_diagnoses\": [\"angioedema\", \"hypertension\"],\n    \"high_risk_medications\": [\"terazosin\", \"prednisone\"],\n    \"follow_up_instructions\": [\"primary care physician (dr. [**last name (stitle) 410**], [**telephone/fax (1) 91416**]) within 1 week\", \"establish care with an allergy specialist\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"MSSA bacteremia in 2021\"],\n    \"discharge_diagnoses\": [\"MSSA tricuspid valve endocarditis\", \"Septic pulmonary emboli\"],\n    \"high_risk_medications\": [\"Linezolid\", \"Fentanyl patch\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Infectious disease follow-up at [**hospital1 4242**]\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"bladder cancer, rectal cancer s/p resection and colostomy in 2103\"],\n    \"discharge_diagnoses\": [\"upper gi bleed\", \"uti\", \"hematuria\", \"dementia\"],\n    \"high_risk_medications\": [\"heparin sodium (porcine) 5,000 unit/ml solution\", \"pantoprazole sodium 40 mg tablet, delayed release\", \"ampicillin sodium 2 g recon soln\"],\n    \"follow_up_instructions\": [\"Check hct once a day for 7 days\", \"Inform dr. [**first name (stitle) **] if the value drops below 30\", \"Continue ampicillin to finish a 7 day course\", \"Restart asa 325 qd in one week\", \"Consider making an outpatient appointment for the patient with urology clinic: ([**telephone/fax (1) 772**] for an outpatient cystoscopy and ct urogram.\"],\n    \"discharge_disposition\": \"[**hospital3 1186**] - [**location (un) 538**]\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  }
+]

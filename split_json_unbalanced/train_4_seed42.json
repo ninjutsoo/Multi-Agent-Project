@@ -1,0 +1,18 @@
+[
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"mitral valve prolapse and moderate-to-severe mitral regurgitation\"],\n    \"discharge_diagnoses\": [\"mitral regurgitation\", \"seizure disorder\", \"osteoporosis\"],\n    \"high_risk_medications\": [\"oxycodone-acetaminophen\"],\n    \"follow_up_instructions\": [\"cardiac surgery office\", \"vna services\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"alert and oriented x3 nonfocal ambulating with steady gait incisional pain managed with incisions\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\", \"VT s/p pacemaker implantation\"],\n    \"discharge_diagnoses\": [\"Food impaction in esophagus\", \"Duodenitis\", \"Coronary artery disease\", \"Recurrent polymorphic VT\", \"Hypertension\", \"Ischemic cardiomyopathy\", \"Elevated cholesterol\", \"End stage renal disease\", \"Hypothyroidism\", \"Depression\"],\n    \"high_risk_medications\": [\"Warfarin\", \"Mexiletine\"],\n    \"follow_up_instructions\": [\"Cardiology in 1 week\", \"Gastroenterology in 2 weeks\", \"Primary care physician in 1 week\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"copd exacerbation in [**1-15**]\", \"copd exacerbation in [**11-16**]\"],\n    \"discharge_diagnoses\": [\"copd exacerbation\"],\n    \"high_risk_medications\": [\"levofloxacin\", \"magnesium\", \"furosemide\", \"fluconazole\", \"heparin\", \"captopril\", \"seroquel\", \"neurontin\", \"klonopin\", \"effexor\", \"oxybutinin\", \"protonix\"],\n    \"follow_up_instructions\": [\"primary care physician within 1 week following discharge from rehab facility\", \"provider on [**2150-6-3**] at [**hospital6 29**]\", \"provider on [**2150-6-23**] at [**hospital6 29**]\", \"provider [**first name8 (namepattern2) 1176**] [**name8 (md) 1177**] md [**md number(2) 5799**]\"],\n    \"discharge_disposition\": \"extended care facility: [**hospital6 85**] - [**location (un) 86**]\",\n    \"condition_at_discharge\": \"fair\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"hepatic abscess: e.coli/strep anginosis psh: right achilles tendon rupture repair, [**2103-8-26**] ex lap for hepatic abscess\"],\n    \"discharge_diagnoses\": [\"hepatic abscesses: strep anginosus, ecoli bacteremic: strep anginosis bilateral cephalic dvts, dvt right basilic\"],\n    \"high_risk_medications\": [\"ceftriaxone\", \"metronidazole\", \"metoprolol tartrate\", \"amlodipine\", \"famotidine\"],\n    \"follow_up_instructions\": [\"[**name10 (nameis) **] [**name8 (md) **], md phone:[**telephone/fax (1) 457**] date/time:[**2103-9-24**] 10:10, provider: [**first name4 (namepattern1) 2482**] [**last name (namepattern1) **], md phone:[**telephone/fax (1) 457**] date/time:[**2103-10-15**] 11:00, provider: [**first name11 (name pattern1) 674**] [**last name (namepattern4) 675**], md phone:[**telephone/fax (1) 673**] date/time:[**2103-9-27**] 2:50\"],\n    \"discharge_disposition\": \"home with service facility: androscoggin vna\",\n    \"condition_at_discharge\": \"ambulatory - independent\"\n}",
+    "label": "no"
+  }
+]

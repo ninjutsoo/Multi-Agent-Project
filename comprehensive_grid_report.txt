@@ -1,0 +1,17 @@
+Grid Test Report - Thu May 29 10:12:32 PM UTC 2025
+=================================
+Model: emilyalsentzer/Bio_ClinicalBERT
+Seed: 0
+Shot sizes: 2 4 8 16 32 64 128
+LR scales: e5 (1e-5), e6 (1e-6), e7 (1e-7)
+Higher epochs: Base 20 with 2x-4x multipliers
+
+RUN 1: 2-shot e5 LR
+  LR: 1e-5 | Epochs: 40 | Batch: 2/1
+  Start: Thu May 29 10:12:32 PM UTC 2025
+  Status: FAILED | Duration: 34s
+  End: Thu May 29 10:13:06 PM UTC 2025
+
+RUN 2: 2-shot e6 LR
+  LR: 1e-6 | Epochs: 60 | Batch: 2/1
+  Start: Thu May 29 10:13:08 PM UTC 2025

@@ -1,0 +1,10 @@
+[
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"angioedema in 2187\"],\n    \"discharge_diagnoses\": [\"angioedema\", \"hypertension\"],\n    \"high_risk_medications\": [\"terazosin\", \"prednisone\"],\n    \"follow_up_instructions\": [\"primary care physician (dr. [**last name (stitle) 410**], [**telephone/fax (1) 91416**]) within 1 week\", \"establish care with an allergy specialist\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"COPD exacerbation in 2021\"],\n    \"discharge_diagnoses\": [\"Pneumonia\", \"COPD exacerbation\", \"Schizophrenia\"],\n    \"high_risk_medications\": [\"Prednisone\", \"Olanzapine\", \"Aspirin\", \"Albuterol\", \"Tiotropium\", \"Fluticasone-Salmeterol\", \"Ipratropium\"],\n    \"follow_up_instructions\": [\"Cardiology in 1 week\", \"Home Health Aide on 4-28\"],\n    \"discharge_disposition\": \"Home with service\",\n    \"condition_at_discharge\": \"Stable, ambulatory, on home oxygen levels\"\n}",
+    "label": "yes"
+  }
+]

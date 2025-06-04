@@ -1,0 +1,10 @@
+[
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Type A aortic dissection in 2114\"],\n    \"discharge_diagnoses\": [\"Hypertension\", \"Type A aortic dissection\", \"Repair of Type A aortic dissection with valve replacement and ascending aortic supracoronary graft\", \"Perioperative atrial fibrillation\", \"Postoperative bleeding/reexploration for bleeding\"],\n    \"high_risk_medications\": [\"Amiodarone\", \"Dilaudid\"],\n    \"follow_up_instructions\": [\"Follow-up with Dr. [**last name (stitle) **] in one month, by telephone on [**2114-5-24**], and in the office in one to two weeks. Return to [**hospital ward name 121**] for staple removal in two weeks. Follow-up with primary care physician, [**last name (namepattern4) **], in one to two weeks. Follow-up with Dr. [**last name (prefixes) 411**] in one month.\"],\n    \"discharge_disposition\": \"Home\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\", \"CHF in 2020\"],\n    \"discharge_diagnoses\": [\"CHF\", \"Aortic stenosis\"],\n    \"high_risk_medications\": [\"Nitroglycerin\", \"Metoprolol succinate\", \"Lisinopril\", \"Pantoprazole\"],\n    \"follow_up_instructions\": [\"Dr. [first name8 last name 6073]\", \"Dr. [first name9 last name 6073]\", \"Dr. [first name10 last name 6073]\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  }
+]

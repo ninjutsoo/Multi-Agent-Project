@@ -1,0 +1,18 @@
+[
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"nsclca\", \"dka\"],\n    \"discharge_diagnoses\": [\"diabetic ketoacidosis\", \"gastroparesis with dilated stomach and esophagus\", \"metastatic lung cancer\"],\n    \"high_risk_medications\": [\"morphine\", \"insulin glargine\"],\n    \"follow_up_instructions\": [\"[**first name8 (namepattern2) 251**] [**name11 (nameis) **], md\", \"[**first name8 (namepattern2) 25**] [**last name (namepattern1) **], md\", \"[**name10 (nameis) **]\", \"[**name11 (nameis) **]\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"aortic stenosis in 2021\"],\n    \"discharge_diagnoses\": [\"aortic stenosis\", \"hyperlipidemia\", \"hypertension\", \"s/p avr replacement (21 porcine)/aortotomy\"],\n    \"high_risk_medications\": [\"oxycodone-acetaminophen\", \"metoprolol tartrate\", \"aspirin\", \"atorvastatin\", \"lisinopril\", \"prempro\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Wound check in cardiac surgery office\", \"Appointment with primary care provider in 3-9 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"alert and oriented x3 nonfocal ambulating with steady gait incisional pain managed with oral analgesia\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"COPD exacerbation in 2021\"],\n    \"discharge_diagnoses\": [\"Pneumonia\", \"COPD exacerbation\", \"Schizophrenia\"],\n    \"high_risk_medications\": [\"Prednisone\", \"Olanzapine\", \"Aspirin\", \"Albuterol\", \"Tiotropium\", \"Fluticasone-Salmeterol\", \"Ipratropium\"],\n    \"follow_up_instructions\": [\"Cardiology in 1 week\", \"Home Health Aide on 4-28\"],\n    \"discharge_disposition\": \"Home with service\",\n    \"condition_at_discharge\": \"Stable, ambulatory, on home oxygen levels\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"angioedema in 2187\"],\n    \"discharge_diagnoses\": [\"angioedema\", \"hypertension\"],\n    \"high_risk_medications\": [\"terazosin\", \"prednisone\"],\n    \"follow_up_instructions\": [\"primary care physician (dr. [**last name (stitle) 410**], [**telephone/fax (1) 91416**]) within 1 week\", \"establish care with an allergy specialist\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  }
+]

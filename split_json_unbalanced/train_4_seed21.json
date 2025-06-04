@@ -1,0 +1,18 @@
+[
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Hypertensive emergency at hospital1\"],\n    \"discharge_diagnoses\": [\"Hypertensive emergency\", \"Systolic heart failure\"],\n    \"high_risk_medications\": [\"Carvedilol\", \"Lisinopril\", \"Hydrochlorothiazide\", \"Aspirin\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"hepatitis c in 2021\", \"right hand surgery to remove an abscess at the age of 30\"],\n    \"discharge_diagnoses\": [\"upper gastrointestinal bleed\", \"polysubstance abuse\", \"hepatitis c\", \"depression\", \"hypertension\"],\n    \"high_risk_medications\": [\"citalopram\", \"depakote\", \"risperidone\", \"trazodone\"],\n    \"follow_up_instructions\": [\"[**hospital1 778**] health ([**telephone/fax (1) 2776**] [**first name8 (namepattern2) **] [**last name (namepattern1) 3321**] np thursday [**2185-8-4**] at 11:00 am\", \"[**hospital1 778**] health ([**telephone/fax (1) 2776**] [**first name8 (namepattern2) **] [**last name (namepattern1) **] md [**md number(2) 6708**]\"), \"follow up with your primary providers at [**hospital1 778**] health\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"mental status: clear and coherent. level of consciousness: alert and interactive. activity status: ambulatory - independent.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"s/p hernia repair 7 years ago\"],\n    \"discharge_diagnoses\": [\"cad now s/p cabg nstemi\", \"htn\", \"kidney stones\", \"polymyalgia\"],\n    \"high_risk_medications\": [\"oxycodone-acetaminophen\", \"aspirin\", \"docusate sodium\", \"pantoprazole\", \"prednisone\", \"senna\", \"clopidogrel\", \"furosemide\", \"potassium chloride\", \"metoprolol tartrate\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) 32255**] 2 weeks\", \"dr. [**last name (stitle) 70216**] 2 weeks\", \"dr. [**first name (stitle) **] 4 weeks\"],\n    \"discharge_disposition\": \"extended care facility: [**hospital 745**] health care center\",\n    \"condition_at_discharge\": \"good.\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [],\n    \"discharge_diagnoses\": [\"fall t7 burst fracture grade iii anterolisthesis of t6 on t7 severe cord compression at the t6-t7 level with paraplegia\", \"9th rib fracture\"],\n    \"high_risk_medications\": [\"heparin\", \"dilaudid\", \"olanzapine\"],\n    \"follow_up_instructions\": [\"return to the office on [**2158-3-15**] for removal of your staples/sutures and a wound check.\", \"call ([**telephone/fax (1) 88**] to schedule an appointment with dr. [**last name (stitle) **] to be seen in 3 months. you will need ct-scan of your thoracic spine prior to your appointment.\"],\n    \"discharge_disposition\": \"[**hospital6 85**] - [**location (un) 86**]\",\n    \"condition_at_discharge\": \"hemodynamically stable, tolerating a regular diet, pain adequately controlled.\"\n}",
+    "label": "no"
+  }
+]

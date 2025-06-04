@@ -1,0 +1,10 @@
+[
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"seizure in 3-/2107\"],\n    \"discharge_diagnoses\": [\"clogged tracheostomy tube\"],\n    \"high_risk_medications\": [\"lorazepam\", \"oxycodone\", \"ipratropium-albuterol\"],\n    \"follow_up_instructions\": [\"tracheal ct scan at 8:30 am on 6-16\", \"flexible bronchoscopy at 10 am on 6-16\"],\n    \"discharge_disposition\": \"extended care facility: [**location (un) 32674**] - [**location (un) **]\",\n    \"condition_at_discharge\": \"mental status: clear and coherent. level of consciousness: alert and interactive. activity status: bedbound.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"DM2 in 2021\"],\n    \"discharge_diagnoses\": [\"Epidural abscess\", \"Discitis\", \"Vertebral osteomyelitis\", \"Empyema\"],\n    \"high_risk_medications\": [\"Nafcillin\", \"Hydromorphone\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Radiology for a chest xray on 2021-5-7\", \"Dr. [**first name (stitle) **] on 2021-5-8\"],\n    \"discharge_disposition\": \"Extended care facility: [**hospital3 7665**]\",\n    \"condition_at_discharge\": \"Deconditioned\"\n}",
+    "label": "yes"
+  }
+]

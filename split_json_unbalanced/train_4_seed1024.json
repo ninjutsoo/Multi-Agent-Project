@@ -1,0 +1,18 @@
+[
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"hypercarbic respiratory failure in 2022\", \"hypercarbic respiratory failure in 2021\"],\n    \"discharge_diagnoses\": [\"hypercarbic/hypoxic respiratory failure\", \"pneumonia\", \"myocardial infarction\", \"coronary artery disease\", \"hypertension\", \"hypercholesterolemia\", \"chronic low back pain\", \"gastroesophageal reflux disease\", \"question chronic obstructive pulmonary disease\", \"question liver disease\", \"depression\"],\n    \"high_risk_medications\": [\"oxycodone\", \"morphine\", \"nitroglycerin\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Pain specialist follow-up on 12-23\", \"Psychiatry follow-up on 1-5\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"aortic stenosis\", \"mitral regurgitation\", \"ascending aortic aneurysm\", \"rheumatic heart disease\", \"chronic systolic congestive heart failure\", \"h/o endocarditis [**2147**]\", \"hypertension\", \"asthma(exercise induced)\", \"h/o kidney stones\", \"chronic low back pain\", \"gilberts hyperbilirubinemia\"],\n    \"high_risk_medications\": [\"amiodarone\", \"hydromorphone\", \"tramadol\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Surgeon in 3 weeks\", \"Wound check in [**last name (un) 6752**] 2a in 10 days\", \"Primary care in 3 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"alert and oriented x3, nonfocal ambulating with steady gait\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"hepatitis c in 2021\", \"right hand surgery to remove an abscess at the age of 30\"],\n    \"discharge_diagnoses\": [\"upper gastrointestinal bleed\", \"polysubstance abuse\", \"hepatitis c\", \"depression\", \"hypertension\"],\n    \"high_risk_medications\": [\"citalopram\", \"depakote\", \"risperidone\", \"trazodone\"],\n    \"follow_up_instructions\": [\"[**hospital1 778**] health ([**telephone/fax (1) 2776**] [**first name8 (namepattern2) **] [**last name (namepattern1) 3321**] np thursday [**2185-8-4**] at 11:00 am\", \"[**hospital1 778**] health ([**telephone/fax (1) 2776**] [**first name8 (namepattern2) **] [**last name (namepattern1) **] md [**md number(2) 6708**]\"), \"follow up with your primary providers at [**hospital1 778**] health\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"mental status: clear and coherent. level of consciousness: alert and interactive. activity status: ambulatory - independent.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"mitral valve prolapse and moderate-to-severe mitral regurgitation\"],\n    \"discharge_diagnoses\": [\"mitral regurgitation\", \"seizure disorder\", \"osteoporosis\"],\n    \"high_risk_medications\": [\"oxycodone-acetaminophen\"],\n    \"follow_up_instructions\": [\"cardiac surgery office\", \"vna services\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"alert and oriented x3 nonfocal ambulating with steady gait incisional pain managed with incisions\"\n}",
+    "label": "no"
+  }
+]

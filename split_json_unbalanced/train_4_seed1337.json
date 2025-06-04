@@ -1,0 +1,18 @@
+[
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"aortic stenosis in 2029\"],\n    \"discharge_diagnoses\": [\"aortic stenosis s/p aortic valve replacement\"],\n    \"high_risk_medications\": [\"hydromorphone\"],\n    \"follow_up_instructions\": [\"[hospital 409] clinic in 2 weeks, dr [last name (stitle)] in [2-22] weeks, dr [last name (stitle)] in 4 weeks\"],\n    \"discharge_disposition\": \"home with VNA\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Type A aortic dissection in 2114\"],\n    \"discharge_diagnoses\": [\"Hypertension\", \"Type A aortic dissection\", \"Repair of Type A aortic dissection with valve replacement and ascending aortic supracoronary graft\", \"Perioperative atrial fibrillation\", \"Postoperative bleeding/reexploration for bleeding\"],\n    \"high_risk_medications\": [\"Amiodarone\", \"Dilaudid\"],\n    \"follow_up_instructions\": [\"Follow-up with Dr. [**last name (stitle) **] in one month, by telephone on [**2114-5-24**], and in the office in one to two weeks. Return to [**hospital ward name 121**] for staple removal in two weeks. Follow-up with primary care physician, [**last name (namepattern4) **], in one to two weeks. Follow-up with Dr. [**last name (prefixes) 411**] in one month.\"],\n    \"discharge_disposition\": \"Home\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\", \"CHF in 2020\"],\n    \"discharge_diagnoses\": [\"CHF\", \"Aortic stenosis\"],\n    \"high_risk_medications\": [\"Nitroglycerin\", \"Metoprolol succinate\", \"Lisinopril\", \"Pantoprazole\"],\n    \"follow_up_instructions\": [\"Dr. [first name8 last name 6073]\", \"Dr. [first name9 last name 6073]\", \"Dr. [first name10 last name 6073]\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cervical spinal fusion in [**2170**]\"],\n    \"discharge_diagnoses\": [\"down syndrome\", \"alzheimer's disease\", \"possible lumbar radiculopathy\"],\n    \"high_risk_medications\": [],\n    \"follow_up_instructions\": [\"mri of lumbar spine phone:[**telephone/fax (1) 327**] on [**2176-12-26**] 2:00pm ([**hospital ward name **])\", \"drs. [**name5 (ptitle) 540**] & [**doctor last name **] phone:[**telephone/fax (1) 44**] date/time:[**2177-1-23**] 4:30\", \"[**name6 (md) 4267**] [**last name (namepattern4) 4267**]\"],\n    \"discharge_disposition\": \"[**hospital3 1107**] [**hospital **] hospital - [**location (un) 38**]\",\n    \"condition_at_discharge\": \"alert, sometimes sleepy, talks a few words.\"\n}",
+    "label": "no"
+  }
+]

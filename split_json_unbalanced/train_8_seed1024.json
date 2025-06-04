@@ -1,0 +1,34 @@
+[
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"hypercarbic respiratory failure in 2022\", \"hypercarbic respiratory failure in 2021\"],\n    \"discharge_diagnoses\": [\"hypercarbic/hypoxic respiratory failure\", \"pneumonia\", \"myocardial infarction\", \"coronary artery disease\", \"hypertension\", \"hypercholesterolemia\", \"chronic low back pain\", \"gastroesophageal reflux disease\", \"question chronic obstructive pulmonary disease\", \"question liver disease\", \"depression\"],\n    \"high_risk_medications\": [\"oxycodone\", \"morphine\", \"nitroglycerin\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Pain specialist follow-up on 12-23\", \"Psychiatry follow-up on 1-5\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"hepatitis c in 2021\", \"right hand surgery to remove an abscess at the age of 30\"],\n    \"discharge_diagnoses\": [\"upper gastrointestinal bleed\", \"polysubstance abuse\", \"hepatitis c\", \"depression\", \"hypertension\"],\n    \"high_risk_medications\": [\"citalopram\", \"depakote\", \"risperidone\", \"trazodone\"],\n    \"follow_up_instructions\": [\"[**hospital1 778**] health ([**telephone/fax (1) 2776**] [**first name8 (namepattern2) **] [**last name (namepattern1) 3321**] np thursday [**2185-8-4**] at 11:00 am\", \"[**hospital1 778**] health ([**telephone/fax (1) 2776**] [**first name8 (namepattern2) **] [**last name (namepattern1) **] md [**md number(2) 6708**]\"), \"follow up with your primary providers at [**hospital1 778**] health\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"mental status: clear and coherent. level of consciousness: alert and interactive. activity status: ambulatory - independent.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2023\", \"CVA in 2023\", \"MI in 2023\"],\n    \"discharge_diagnoses\": [\"Status post parathyroidectomy pneumonia\", \"Delirium\", \"Upper extremity thrombosis (not DVT)\"],\n    \"high_risk_medications\": [\"Vancomycin\", \"Piperacillin-tazobactam\", \"Oxycodone (immediate release)\", \"Heparin\"],\n    \"follow_up_instructions\": [\"Orthopedics in 2 weeks\", \"Hand clinic in 2 weeks\", \"Dr. [last name (stitle)] (surgery) on 2023-12-1\", \"Dr. [last name (stitle) 656] (radiation oncology) on 2023-12-3\", \"Primary care in [name (ni)] house\"],\n    \"discharge_disposition\": \"Extended care facility: [hospital] healthcare center - [location (un) 1110]\",\n    \"condition_at_discharge\": \"Mental status: clear and coherent. Level of consciousness: alert and interactive. Activity status: ambulatory - independent.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"mi in 2021\"],\n    \"discharge_diagnoses\": [\"cabg x4 mi htn nephrolithiasis colon polyps obesity postop a fib psh: tonsillectomy\"],\n    \"high_risk_medications\": [\"oxycodone-acetaminophen 5-325 mg tablet\", \"amiodarone 200 mg tablet\"],\n    \"follow_up_instructions\": [\"see dr. [**first name8 (namepattern2) **] [**last name (namepattern1) **] in [**1-21**] weeks see dr. [**first name (stitle) **] in 4 weeks\"],\n    \"discharge_disposition\": \"home with service facility: [**location (un) 932**] area vna\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"mitral valve prolapse and moderate-to-severe mitral regurgitation\"],\n    \"discharge_diagnoses\": [\"mitral regurgitation\", \"seizure disorder\", \"osteoporosis\"],\n    \"high_risk_medications\": [\"oxycodone-acetaminophen\"],\n    \"follow_up_instructions\": [\"cardiac surgery office\", \"vna services\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"alert and oriented x3 nonfocal ambulating with steady gait incisional pain managed with incisions\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Right pleural effusion in 2188-2-25\"],\n    \"discharge_diagnoses\": [\"Hypoxia\", \"Urosepsis\", \"Urinary retention\", \"Acute exacerbation of congestive heart failure\", \"Pneumonia\", \"COPD\", \"Diarrhea\"],\n    \"high_risk_medications\": [\"Amiodarone\", \"Furosemide\", \"Metoprolol succinate\", \"Terazosin\"],\n    \"follow_up_instructions\": [\"Pulmonology in 2 weeks\"],\n    \"discharge_disposition\": \"Extended care facility: hospital6 459 for the aged - macu\",\n    \"condition_at_discharge\": \"Stable, no shortness of breath, requiring 3l o2 for sats >90%\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [],\n    \"discharge_diagnoses\": [\"acute mesenteric ischemia\", \"aortobifemoral bypass graft and superior mesenteric artery to the aorta\", \"exploratory laparotomy and small-bowel resection\", \"second look exploration, washout, ileocecectomy, and ileocolostomy\"],\n    \"high_risk_medications\": [\"levofloxacin\", \"lopressor\", \"ursodiol\", \"protonix\", \"loperamide\", \"ferrous sulfate\", \"morphine sulfate\", \"mucomyst\", \"chlorhexidine gluconate\", \"dulcolax\", \"artificial tears\", \"tylenol\", \"regular insulin\"],\n    \"follow_up_instructions\": [\"start pureed diet and thin liquids with supervision\", \"liver function tests will be ordered as requested\", \"stopping the tube feeds has been recommended but has not been decided upon\"],\n    \"discharge_disposition\": \"rehabilitation facility\",\n    \"condition_at_discharge\": \"satisfactory\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"aortic stenosis\", \"mitral regurgitation\", \"ascending aortic aneurysm\", \"rheumatic heart disease\", \"chronic systolic congestive heart failure\", \"h/o endocarditis [**2147**]\", \"hypertension\", \"asthma(exercise induced)\", \"h/o kidney stones\", \"chronic low back pain\", \"gilberts hyperbilirubinemia\"],\n    \"high_risk_medications\": [\"amiodarone\", \"hydromorphone\", \"tramadol\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Surgeon in 3 weeks\", \"Wound check in [**last name (un) 6752**] 2a in 10 days\", \"Primary care in 3 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"alert and oriented x3, nonfocal ambulating with steady gait\"\n}",
+    "label": "no"
+  }
+]

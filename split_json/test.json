@@ -1,0 +1,546 @@
+[
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Bleeding duodenal ulcer 30 years ago, right thoracotomy, right subcostal incision, and a midline incision for distal gastrectomy with apparent billroth ii reconstruction.\"],\n    \"discharge_diagnoses\": [\"Acute and chronic cholecystitis.\", \"Cholecystoduodenal fistula.\", \"Impacted common bile duct stone.\"],\n    \"high_risk_medications\": [\"Oxycodone-acetaminophen (5mg-325mg)\"],\n    \"follow_up_instructions\": [\"Surgical specialties on Thursday [**2129-8-11**] at 3:30 pm with [**known firstname **] [**last name (namepattern4) 104214**], md [**telephone/fax (1) 274**].\"],\n    \"discharge_disposition\": \"Extended care facility: Nevins Nursing and Rehab Center\",\n    \"condition_at_discharge\": \"Mental status: confused - sometimes. Level of consciousness: alert and interactive. Activity status: ambulatory - independent.\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"T12 burst fracture complicated by lower extremity paralysis in 2021\"],\n    \"discharge_diagnoses\": [\"Sepsis\", \"Acute renal failure\", \"Hypoxemia\", \"Sacral decubitus ulcer stage 3\"],\n    \"high_risk_medications\": [\"Piperacillin-tazobactam-dextrs\", \"Vancomycin\"],\n    \"follow_up_instructions\": [\"F/U with PCP\"],\n    \"discharge_disposition\": \"Extended care facility: hospital6 1643\",\n    \"condition_at_discharge\": \"Vital signs stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"t3 n0 large cell lung carcinoma with neuroendocrine features, s/p lobectomy and chemotherapy\"],\n    \"discharge_diagnoses\": [\"anterior kyphosis due to tumor t7 and t8\"],\n    \"high_risk_medications\": [\"hydromorphone (dilaudid) 2 mg po q4h:prn pain\"],\n    \"follow_up_instructions\": [\"return to the office in 7-14 days for removal of staples\", \"call ([**telephone/fax (1) 4676**] to schedule an appointment with dr. [**last name (stitle) 739**] to be seen in 4 weeks. you will need ap and lateral thoracic spine x-rays prior to your appointment.\"],\n    \"discharge_disposition\": \"extended care facility: [**doctor last name **] nursing & rehabilitation center - [**location (un) **]\",\n    \"condition_at_discharge\": \"mental status: clear and coherent. level of consciousness: alert and interactive. activity status: ambulatory - independent.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Cirrhosis in 2021\"],\n    \"discharge_diagnoses\": [\"Upper GI bleed\", \"Cirrhosis\"],\n    \"high_risk_medications\": [\"Oxycodone\"],\n    \"follow_up_instructions\": [\"Liver center in 5-20 May with [**first name11 (name pattern1) **] [**last name (namepattern1) 8507**], md\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2023\", \"ESRD in 2024\"],\n    \"discharge_diagnoses\": [\"End stage renal disease\", \"Diabetes mellitus\", \"Hypertension\", \"Seizure disorder\", \"Congestive heart failure\"],\n    \"high_risk_medications\": [\"Insulin\", \"Levetiracetam\"],\n    \"follow_up_instructions\": [\"Cardiology in 2024-04-03 at 08:00\", \"Dr. [**last name (stitle) 29958**] in 2024-04-03 at 14:30\", \"Dr. [**first name (stitle) 805**] in 2024-03-28\", \"Dr. [**first name (stitle) 3782**] in 2024-04-10 at 10:00\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good. asymptomatic.\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Seizure in 2021\", \"Seizure in 9-25\"],\n    \"discharge_diagnoses\": [\"Seizure\", \"Alzheimer's disease\"],\n    \"high_risk_medications\": [\"Lamotrigine\", \"Phenytoin\"],\n    \"follow_up_instructions\": [\"Neurology in 2 weeks\", \"Primary care physician follow-up\"],\n    \"discharge_disposition\": \"Extended care facility: [**doctor last name **] house\",\n    \"condition_at_discharge\": \"Awake, oriented to self. Ambulatory with walker and assist.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"ureteral stone, sepsis in 2026-2-25\", \"urinary tract infection, dehydration, acute renal failure, nephrolithiasis, atrial fibrillation in 2026-2-25\"],\n    \"discharge_diagnoses\": [\"urinary tract infection\", \"dehydration\", \"acute renal failure\", \"nephrolithiasis\", \"atrial fibrillation\"],\n    \"high_risk_medications\": [\"warfarin\", \"cefpodoxime\", \"metoprolol\", \"percocet\"],\n    \"follow_up_instructions\": [\"call pcp to schedule appropriate follow up\", \"follow up with cardiology within 3 weeks of discharge\", \"follow up with urologist on 2026-3-19\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Fall with small SAH\"],\n    \"discharge_diagnoses\": [\"Aortic stenosis\"],\n    \"high_risk_medications\": [\"Oxycodone-acetaminophen\", \"Amiodarone\"],\n    \"follow_up_instructions\": [\"Cardiology in 1 week, Surgeon in 3 weeks\"],\n    \"discharge_disposition\": \"Extended care facility: [**location (un) 1036**] - [**location (un) 620**]\",\n    \"condition_at_discharge\": \"Alert and oriented x3, nonfocal, ambulating with assistance, incisional pain managed with Percocet\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"metastatic prostate cancer in 2021\", \"dvt/pe in 2019\"],\n    \"discharge_diagnoses\": [\"deep venous thrombosis\", \"metastatic prostate cancer\", \"obstructive sleep apnea\", \"psoriasis\"],\n    \"high_risk_medications\": [\"hydromorphone\", \"methadone\"],\n    \"follow_up_instructions\": [\"Oncology: dr. [**last name (stitle) **], please call ([**telephone/fax (1) 31457**] to make a follow-up appointment within 2 weeks.\", \"Primary care: dr. [**last name (stitle) **], please call  [**telephone/fax (1) 7477**] to make a follow-up appointment within 2 weeks.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"gib 11/2132\", \"gib 2-/2133\", \"gib 12/2133\"],\n    \"discharge_diagnoses\": [\"obstipation\", \"destructive lumbar mass\", \"infected stage iv decubitus ulcerations\", \"polymicrobial urinary tract infection\"],\n    \"high_risk_medications\": [\"warfarin\", \"metoprolol\", \"mirtazapine\", \"clozapine\", \"docusate sodium\", \"senna\", \"lactulose\", \"bisacodyl\", \"metronidazole\", \"pantoprazole\", \"vancomycin\", \"ceftriaxone\", \"heparin\"],\n    \"follow_up_instructions\": [\"ceftriaxone q24h for 3 days\", \"metronidazole tid for 2 weeks\", \"pantoprazole po once a day\", \"vancomycin iv once a day for 25 days\"],\n    \"discharge_disposition\": \"extended care facility: [**hospital1 2670**] - [**location (un) **]\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Renal artery stenting in 2023-3-10\"],\n    \"discharge_diagnoses\": [\"Ischemic bowel\"],\n    \"high_risk_medications\": [\"Hydrocodone-acetaminophen\", \"Diltiazem\", \"Labetalol\"],\n    \"follow_up_instructions\": [\"General surgery/[**hospital unit name 2193**] on Tuesday [**2134-2-9**] at 3:00 pm with acute care clinic [**telephone/fax (1) 600**]\", \"Cardiology follow up within a week, will be called at home tomorrow with an appointment. If not heard by Friday, call [**telephone/fax (1) 2258**] and ask for [**doctor last name 2563**].\"],\n    \"discharge_disposition\": \"home with service\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"non st elevation myocardial infarction\"],\n    \"discharge_diagnoses\": [\"coronary artery disease\", \"hypertension\", \"hypercholesterolemia\", \"asthma\", \"angina\", \"postoperative ventricular tachycardia\"],\n    \"high_risk_medications\": [\"amiodarone\", \"oxycodone-acetaminophen\"],\n    \"follow_up_instructions\": [\"dr.[**last name (stitle) **] at [**hospital1 **] on [**2134-10-21**] at 9am\", \"dr.[**last name (stitle) 6254**] on [**2134-11-1**] at 3:00pm\", \"please call to schedule appointments with your primary care dr. [**first name (stitle) **] in [**4-19**] weeks [**telephone/fax (1) 87351**]\"],\n    \"discharge_disposition\": \"[**location (un) 931**] house nursing & rehabilitation center - [**location (un) 932**]\",\n    \"condition_at_discharge\": \"alert and oriented x3 nonfocal ambulating with steady gait incisional pain managed with percocet incisions: sternal - healing well, no erythema or drainage leg left - healing well, no erythema or drainage. 1+ edema\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"ICU stay for intracerebral hemorrhage\", \"Hospitalization for bacterial meningitis\"],\n    \"discharge_diagnoses\": [\"HTN\", \"ETOH\", \"HCV\", \"Smoking\", \"Cocaine use\", \"Intracerebral hemorrhage in right basal ganglia/caudate\", \"Bacterial meningitis\"],\n    \"high_risk_medications\": [\"Heparin\", \"Ceftazidime\", \"Vancomycin\"],\n    \"follow_up_instructions\": [\"Repeat chest CT with IV contrast in 3mo to follow up on pulmonary nodule\"],\n    \"discharge_disposition\": \"Extended care facility: hospital rehab\",\n    \"condition_at_discharge\": \"Improved\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"AAA repair in 2021\", \"CVA in 2019\"],\n    \"discharge_diagnoses\": [\"CRI causing hypervolemia and respiratory distress\", \"Empiric pneumonia\"],\n    \"high_risk_medications\": [\"Levofloxacin\"],\n    \"follow_up_instructions\": [\"Cardiology in 1 week\", \"PCP appointment on 2025-1-30 at 2:45pm\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"throat cancer s/p surgery, chemo and radiation\"],\n    \"discharge_diagnoses\": [\"coronary artery disease - s/p cabg\", \"post operative atrial fibrillation\", \"carotid stenosis\", \"hypertension\", \"hyperlipidemia\"],\n    \"high_risk_medications\": [\"hydromorphone\", \"amiodarone\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) **] in 4 weeks\", \"dr. [**last name (stitle) 2093**] in 1 weeks\", \"dr. [**last name (stitle) 3321**] in 3 weeks\", \"dr [**last name (stitle) 57956**] (vascular surgery) in 6 months - please call to schedule appointment for office visit with physician and for carotid duplex ultrasound.\", \"wound check appointment tuesdat [**7-15**] at 11am [**hospital ward name 121**] 6:30pm\"],\n    \"discharge_disposition\": \"home with service  facility: [**hospital1 1474**] vna\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"paroxysmal atrial fibrillation in 2174, cardioverted, started on aspirin and rate controlled\", \"paroxysmal atrial fibrillation in 2177, cardioverted and started on propafenone\", \"recent episode of atrial fibrillation/flutter and was started on coumadin\", \"cardioversion for a third time in 2181-3-4\"],\n    \"discharge_diagnoses\": [\"atrial fibrillation\", \"mitochondrial myotonic dystrophy\", \"hypoxia\"],\n    \"high_risk_medications\": [\"propafenone\", \"warfarin\", \"aspirin\"],\n    \"follow_up_instructions\": [\"Cardiology in 2181-5-28 3:40\", \"Pulmonology in 5-16 at 3:30 with dr. [last name (stitle) 18309] on [hospital ward name 23] 7, clinical center, [location (un)]\", \"Primary care in 5-14 at 3:30pm.\"],\n    \"discharge_disposition\": \"home with service facility: [location (un) 932] VNA\",\n    \"condition_at_discharge\": \"stable. patient is ambulating, tolerating oral intake, and has returned to his baseline condition.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [],\n    \"discharge_diagnoses\": [\"left intraparenchymal hemorrhage with small amount of intraventricular extension\"],\n    \"high_risk_medications\": [\"oxycodone-acetaminophen 5-325 mg tablet\"],\n    \"follow_up_instructions\": [\"transfer to hospital1 2025 per patient request\"],\n    \"discharge_disposition\": \"extended care facility: hospital6 1129; doctor last name 9480 12\",\n    \"condition_at_discharge\": \"neurologically stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"coronary artery disease\", \"hypercholesterolemia\", \"hypertension\", \"diabetes mellitus\", \"gastritis\"],\n    \"high_risk_medications\": [\"hydromorphone\", \"cipro\"],\n    \"follow_up_instructions\": [\"Cardiology in 1 week\", \"Cardiologist in 4 weeks\", \"PCP in 12 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"enterocutaneous fistula repair in 2018\", \"pelvic exenteration in 2017 at an outside hospital\"],\n    \"discharge_diagnoses\": [\"status post drainage of intrapelvic abscess\", \"hypotension\", \"hypocalcemia\", \"hypomagnesemia\", \"rectal carcinoma, status post pelvic exenteration\", \"enterocutaneous fistula\", \"status post enterectomy\", \"chronic clostridium difficile colitis\", \"hypertension\", \"atrial flutter\", \"asthma\", \"chronic obstructive pulmonary disease\", \"coronary artery disease\", \"depression\", \"acute renal failure\"],\n    \"high_risk_medications\": [\"vancomycin\", \"imodium elixir\", \"reglan\"],\n    \"follow_up_instructions\": [\"follow up with dr. [**last name (stitle) 957**] in the clinic setting in approximately two weeks\", \"have ostomies emptied and drained as necessary at rehabilitation\", \"emptied and recorded abscess drain as necessary\", \"finish a two week course of oral vancomycin\", \"follow up sooner if develops fevers greater than 101.5 degrees f., persistent vomiting, severe abdominal pain or if has any other questions or concerns\"],\n    \"discharge_disposition\": \"the patient was discharged to the [**hospital **] health and rehabilitation facility\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"HTN, Hyperlipidemia, Vitamin B12 deficiency, Fatty liver, Weight related back pain\"],\n    \"discharge_diagnoses\": [\"Morbid obesity\"],\n    \"high_risk_medications\": [\"Dilaudid PCA, Roxicet 5-325 mg/5 ml solution, Zantac 15 mg/ml syrup, Actigall 300 mg, Colace 50 mg\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks, [**first name11 (name pattern1) **] [**last name (namepattern1) 9325**], md, [**first name11 (name pattern1) **] [**initials (namepattern4) **] [**last name (namepattern4) 18800**], rd\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [],\n    \"discharge_diagnoses\": [\"stroke involving left posterior frontal cortex extending to left fronto-parietal operculum.\"],\n    \"high_risk_medications\": [\"insulin\", \"dipyridamole-aspirin\", \"aggrenox\"],\n    \"follow_up_instructions\": [\"pmd in 1-28 weeks\", \"neurological follow up with dr. [**last name (stitle) **] in 7-5 weeks\", \"[**name (ni) **] will also follow up with you in 1-28 weeks.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Aortic stenosis in 2021\"],\n    \"discharge_diagnoses\": [\"Non ST elevation myocardial infarction\", \"Pneumonia\", \"Congestive heart failure - systolic dysfunction\", \"Hypertension\"],\n    \"high_risk_medications\": [\"Clopidogrel\"],\n    \"follow_up_instructions\": [\"Make an appointment with a primary care physician\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"confused - sometimes\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"s/p cabgx3 [**2103-9-17**]\"],\n    \"discharge_diagnoses\": [\"sternal wire dislocation/dehisscence\"],\n    \"high_risk_medications\": [\"ciprofloxacin\", \"tramadol\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) **] in 4 weeks.\", \"please follow-up with pcp [**last name (namepattern4) **]. [**telephone/fax (1) 7401**] in [**2-25**] weeks.\", \"please follow-up with dr. [**first name (stitle) **] in 1 week ([**telephone/fax (1) 57417**]\"],\n    \"discharge_disposition\": \"extended care facility\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cad s/p stent (~3-4 years ago, on plavix)\"],\n    \"discharge_diagnoses\": [\"l frontal sah\"],\n    \"high_risk_medications\": [\"acetaminophen-codeine\", \"levetiracetam\"],\n    \"follow_up_instructions\": [\"please call ([**telephone/fax (1) 88**] to schedule an appointment with dr. [**last name (stitle) 739**], to be seen in 4 weeks. you will need a ct scan of the brain without contrast prior to your appointment. this can be scheduled when you call to make your office visit appointment.  you need to see your pcp in one week for completion of your syncope work up. please bring a copy of your images on cd. you can obtain this on the [**location (un) 470**] clinical center radiology file room.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"mental status: clear and coherent. level of consciousness: alert and interactive. activity status: ambulatory - requires assistance or aid (walker or cane).\",\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cva in 2019\", \"prostatectomy in 2018\"],\n    \"discharge_diagnoses\": [\"sepsis\", \"aspiration pneumonia\", \"vre bacteremia\", \"c. diff colitis\", \"dementia\", \"hypertension\", \"hyperlipidemia\"],\n    \"high_risk_medications\": [\"linezolid\", \"levofloxacin\", \"metronidazole\"],\n    \"follow_up_instructions\": [\"primary care physician follow-up within 2 weeks\"],\n    \"discharge_disposition\": \"extended care facility: hospital3 center\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"coronary artery disease s/p coronary artery bypass grafts x 4\", \"obesity noninsulin dependent diabetes mellitus\", \"hypertension\", \"hypercholesterolemia\", \"s/p coronary angioplasty\", \"s/p appendectomy\"],\n    \"high_risk_medications\": [\"warfarin\", \"amiodarone\", \"insulin glargine\"],\n    \"follow_up_instructions\": [\"dr.[**last name (stitle) **] in 4 weeks ([**telephone/fax (1) 170**])\", \"dr.[**last name (stitle) 4469**] in 2 weeks ([**telephone/fax (1) 4475**])\", \"dr. [**last name (stitle) 17369**] in [**12-25**] weeks ([**telephone/fax (1) 17368**]please call for appointment.)\", \"please call dr [**last name (stitle) 17369**] [**name (stitle) 766**] ([**2183-10-20**]) re: coumadin as he has followed in past and will continue to follow.\"],\n    \"discharge_disposition\": \"home with service\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Crohn's disease flare in 2021\"],\n    \"discharge_diagnoses\": [\"Anterior mediastinal mass\"],\n    \"high_risk_medications\": [\"Oxycodone-acetaminophen\", \"Diltiazem\", \"Aripiprazole\", \"Sertraline\", \"Lamotrigine\", \"Albuterol sulfate\", \"Ipratropium bromide\"],\n    \"follow_up_instructions\": [\"Cardiology appointment on 2021-08-21 15:00\"],\n    \"discharge_disposition\": \"Extended care facility: hospital1 700 - location (un) 701\",\n    \"condition_at_discharge\": \"Good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"MRSA pneumonia\", \"COPD exacerbation\", \"UTI\"],\n    \"high_risk_medications\": [\"Vancomycin\", \"Ciprofloxacin\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\"],\n    \"discharge_disposition\": \"Extended care facility\",\n    \"condition_at_discharge\": \"Stable on home 2l oxygen\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"CAD s/p CABG x 5 (lima>lad, svg>ramus>om1, svg>om3, svg>rca)\", \"HTN\", \"Hyperlipidemia\", \"Chronic Angina\", \"Nephrolithiasis\"],\n    \"high_risk_medications\": [\"Oxycodone-acetaminophen 5-325 mg tablet\", \"Ferrous gluconate 325 mg (37.5 mg iron) tablet\", \"Metoprolol tartrate 50 mg tablet\", \"Potassium chloride 20 meq tab sust.rel. particle/crystal\", \"Furosemide 40 mg tablet\"],\n    \"follow_up_instructions\": [\"Dr. [**first name8 (namepattern2) **] [**telephone/fax (1) 250**] 2 weeks\", \"Dr. [**first name4 (namepattern1) 919**] [**last name (namepattern1) 911**] [**telephone/fax (1) 4022**]  2 weeks\", \"Dr. [**first name (stitle) **] 4 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Seizure in 2021\"],\n    \"discharge_diagnoses\": [\"Right parietal brain lesion\", \"Seizures\", \"Cervical mass\", \"Cholelithiasis\", \"Thyroid nodule\", \"Benign liver cysts\"],\n    \"high_risk_medications\": [\"Oxycodone\"],\n    \"follow_up_instructions\": [\"Contact gyn office for date and time of outpatient procedure. Return to office in 8 days for wound check. Call ([**telephone/fax (1) 88**] to schedule an appointment with dr. [**last name (stitle) **], to be seen in 6 weeks. Follow up with the following: provider: [**name10 (nameis) 706**] mri phone:[**telephone/fax (1) 327**] date/time:[**2104-8-18**] 8:35\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"mental status: clear and coherent. level of consciousness: alert and interactive. activity status: ambulatory - independent.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"acute respiratory distress syndrome in [**2109**]\"],\n    \"discharge_diagnoses\": [\"acute respiratory failure\"],\n    \"high_risk_medications\": [\"clonazepam\", \"soma\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\"],\n    \"discharge_disposition\": \"medical hospital1\",\n    \"condition_at_discharge\": \"improved\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"SVD x3, c/s via vertical midline at 7 months ga for placenta previa.\"],\n    \"discharge_diagnoses\": [\"cervical cancer\"],\n    \"high_risk_medications\": [\"hydromorphone 2 mg tablet\"],\n    \"follow_up_instructions\": [\"Radiation oncology department, [**hospital ward name **] [**hospital1 18**], [**hospital ward name 332**] basement. Call [**telephone/fax (1) 9710**] if you are having any trouble finding the correct location. You will be starting chemo on wednesday, [**2133-11-25**], at 9:00 am on [**hospital ward name 23**], [**location (un) **], [**hospital ward name 516**], [**hospital1 18**]. Call [**telephone/fax (1) 18574**] with any issues. Please call dr.[**name (ni) 27357**] office to make an appointment for the 2nd-3rd week of [**month (only) 404**]. Phone # [**telephone/fax (1) 5777**].\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\", \"CHF exacerbation in 2023\"],\n    \"discharge_diagnoses\": [\"Diastolic congestive heart failure exacerbation\", \"New calcified lung nodule in right lower lobe\"],\n    \"high_risk_medications\": [\"Amiodarone\", \"Warfarin\"],\n    \"follow_up_instructions\": [\"Cardiology in 3 weeks\", \"Cardiology in 4 weeks\", \"Primary care physician appointment\"],\n    \"discharge_disposition\": \"Extended care facility: hospital6 459 for the aged - acute rehab\",\n    \"condition_at_discharge\": \"Oxygen saturation 95-96% on room air afebrile\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"COPD exacerbation in 2023\"],\n    \"discharge_diagnoses\": [\"COPD exacerbation\", \"OSA\", \"HTN\", \"Mild aortic valve stenosis\", \"Hyperlipidemia\", \"GERD\", \"Schizophrenia\", \"Depression\", \"Obesity\"],\n    \"high_risk_medications\": [\"amlodipine\", \"lisinopril\", \"prednisone\", \"albuterol\", \"ipratropium bromide\", \"heparin\", \"atorvastatin\"],\n    \"follow_up_instructions\": [\"Primary care doctor within 2 weeks\", \"Pulmonary function tests\", \"Cardiologist within 2 weeks\", \"Psychiatrist within 2 weeks\", \"Endocrinologist within 2 weeks\", \"Primary care doctor within 2 weeks\"],\n    \"discharge_disposition\": \"Extended care facility: hospital1 700 - location (un) 701\",\n    \"condition_at_discharge\": \"Afebrile, mentating well\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Pulmonary hypertension in 2162-2-22\"],\n    \"discharge_diagnoses\": [\"Chronic hypoxia\", \"Undiagnosed pulmonary disease\", \"Atrial fibrillation\", \"Acute kidney injury\", \"Hypertension\"],\n    \"high_risk_medications\": [\"Insulin lispro\", \"Warfarin\"],\n    \"follow_up_instructions\": [\"Cardiology in 2162-3-31 at 11:00 am\", \"Pulmonary function lab in 2162-4-1 at 1:10 pm\"],\n    \"discharge_disposition\": \"Extended care facility: hospital6 459 for the aged - macu\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"bacterial endocarditis (mssa) in 2014, subarachnoid hemorrhage in 2015\"],\n    \"discharge_diagnoses\": [\"severe mitral regurgitation\"],\n    \"high_risk_medications\": [\"amiodarone\", \"oxycodone-acetaminophen\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks, Cardiac surgery in 2 weeks, Primary care in 5 weeks\"],\n    \"discharge_disposition\": \"home with VNA service\",\n    \"condition_at_discharge\": \"alert and oriented, ambulating with steady gait, incisional pain managed\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"COPD, Emphesema, Gastric Reflux Disease, Diverticulosis & Adenoma s/p polypectomy\"],\n    \"discharge_diagnoses\": [\"Upper Gastrointestinal Bleeding\", \"Erosive Gastritis\", \"Arteriovenous Malformations in Duodenum\", \"Hiatal Hernia\"],\n    \"high_risk_medications\": [\"Amoxicillin\", \"Clarithromycin\"],\n    \"follow_up_instructions\": [\"Call [**company 191**] on Monday (phone [**telephone/fax (1) 250**]) and set up an appointment with an available provider to have your blood count checked.\", \"Call to set up an appointment with your podiatrist this week.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"ambulatory - independent\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"Flash pulmonary edema\"],\n    \"high_risk_medications\": [\"lasix\", \"diovan\", \"imdur\", \"coreg\", \"enteric coated aspirin\", \"allopurinol\", \"atorvastatin\"],\n    \"follow_up_instructions\": [\"Dr. [**first name4**] [**last name 1007**] in one week\"],\n    \"discharge_disposition\": \"home with home physical therapy and [**hospital6 407**]\",\n    \"condition_at_discharge\": \"fair\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cad in 2021\"],\n    \"discharge_diagnoses\": [\"st elevation inferior myocardial infarction\", \"premature coronary artery disease\"],\n    \"high_risk_medications\": [\"clopidogrel bisulfate\", \"aspirin\", \"atorvastatin calcium\", \"metoprolol succinate\", \"lisinopril\"],\n    \"follow_up_instructions\": [\"appointment with primary care physician in 1-16 weeks, liver function tests, cardiologist in 4 weeks, repeat echo, stress test in 4 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"esrd on hd, hypertensive urgency/emergency\"],\n    \"discharge_diagnoses\": [\"hypertensive urgency/pulmonary edema\"],\n    \"high_risk_medications\": [\"insulin (70-30)\"],\n    \"follow_up_instructions\": [\"[**name10 (nameis) **],[**first name7 (namepattern1) **] [**initial (namepattern1) **] [**last name (namepattern4) **] center - non billing phone:[**telephone/fax (1) 673**] date/time:[**2122-8-5**] 9:00, [**first name4 (namepattern1) 971**] [**last name (namepattern1) 970**], md phone:[**telephone/fax (1) 673**] date/time:[**2122-10-23**] 8:30, [**first name4 (namepattern1) **] [**last name (namepattern1) **] md [**md number(2) 472**] phone:[**telephone/fax (1) 673**] date/time:[**2122-11-14**] 10:00\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"diverticulosis in 2021\", \"CHF in 2076\"],\n    \"discharge_diagnoses\": [\"lower gi bleed\", \"diastolic heart failure\", \"urinary tract infection\", \"vaginal bleeding\"],\n    \"high_risk_medications\": [\"ultram\", \"nsaids\", \"aspirin\"],\n    \"follow_up_instructions\": [\"[**name10 (nameis) **] [**name12 (nameis) **], md on 2115-1-7 3:30\", \"[**first name8 (namepattern2) 1903**] [**last name (namepattern1) 1904**], [**md number(3) 1240**] on 2115-2-12 1:00\", \"if needed, call [**telephone/fax (1) 2664**] for ob/gyn follow-up\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good/stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"bipolar symptoms 3 years ago\"],\n    \"discharge_diagnoses\": [\"copd exacerbation\", \"pneumonia\"],\n    \"high_risk_medications\": [\"clonazepam\", \"clozapine\", \"thiothixene\", \"levofloxacin\"],\n    \"follow_up_instructions\": [\"primary care provider and psychiatrist in the next 14-21 days\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"clear and coherent\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"dka in 6-12, dka in 7-12\"],\n    \"discharge_diagnoses\": [\"diabetic ketoacidosis\", \"hematemesis\", \"hypertension\", \"chronic renal insufficiency\"],\n    \"high_risk_medications\": [\"insulin\", \"opioids\", \"anticoagulants\"],\n    \"follow_up_instructions\": [\"Call dr.[**last name (stitle) 805**]' office to schedule a follow-up appointment within 7-10 days of discharge.\", \"Continue to follow-up with [**last name (un) **] doctors as needed.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"Congestive heart failure\", \"Pulmonary artery hypertension\", \"Paroxysmal atrial fibrillation\", \"Diabetes mellitus type 2\", \"Status post coronary catheterization\"],\n    \"high_risk_medications\": [\"Coumadin\", \"Insulin\", \"Amiodarone\", \"Levofloxacin\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Rehabilitation hospital\"],\n    \"discharge_disposition\": \"Rehabilitation hospital\",\n    \"condition_at_discharge\": \"Good condition\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"hiv/aids in 2023\", \"aids-related burkitt's-like lymphoma in 2033\"],\n    \"discharge_diagnoses\": [\"large cell lymphoma\", \"hiv/aids\"],\n    \"high_risk_medications\": [\"oxycodone\", \"ibuprofen\", \"acetaminophen\", \"pantoprazole\", \"senna\", \"oxycodone sustained release 12hr\", \"bisacodyl\", \"allopurinol\"],\n    \"follow_up_instructions\": [\"check cbc w/ differential and fax results to dr. [**first name4 (namepattern1) **] [**last name (namepattern1) 2148**] at [**telephone/fax (1) 1419**]\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable but still symptomatic\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"as in 2021\"],\n    \"discharge_diagnoses\": [\"as/ascending aortic aneurysm\"],\n    \"high_risk_medications\": [\"metoprolol tartrate\", \"potassium chloride\", \"cephalexin\", \"furosemide\", \"ranitidine hcl\", \"aspirin\", \"atorvastatin\", \"amiodarone\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) 19772**] 2 weeks, dr. [**first name8 (namepattern2) **] [**last name (namepattern1) **] 2 weeks, dr. [**last name (stitle) **] 4 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"DM2 in 2021\"],\n    \"discharge_diagnoses\": [\"Epidural abscess\", \"Discitis\", \"Vertebral osteomyelitis\", \"Empyema\"],\n    \"high_risk_medications\": [\"Nafcillin\", \"Hydromorphone\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Radiology for a chest xray on 2021-5-7\", \"Dr. [**first name (stitle) **] on 2021-5-8\"],\n    \"discharge_disposition\": \"Extended care facility: [**hospital3 7665**]\",\n    \"condition_at_discharge\": \"Deconditioned\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\", \"MI in 2022\"],\n    \"discharge_diagnoses\": [\"Embolus to right femoral artery\", \"Non-ST elevation MI\", \"Gastrointestinal bleed\", \"UTI\"],\n    \"high_risk_medications\": [\"Warfarin\", \"Insulin sliding scale\"],\n    \"follow_up_instructions\": [\"Primary care physician within 1-2 weeks of discharge\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"alcohol withdrawl in [**date range (1) 23527**]\", \"head and neck cancer s/p resection and radiation in [**2093**]\"],\n    \"discharge_diagnoses\": [\"alcohol dependence and withdrawal\", \"anxiety\", \"acute psychosis\"],\n    \"high_risk_medications\": [\"diazepam\", \"olanzapine\"],\n    \"follow_up_instructions\": [\"primary care physician at [**name9 (pre) **] community health center [**telephone/fax (1) 23520**]\", \"cardiologist at [**name10 (pre) **] cardiology clinic [**telephone/fax (1) 23521**]\", \"psychiatrist at [**name11 (pre) **] psychiatry clinic [**telephone/fax (1) 23522**]\"],\n    \"discharge_disposition\": \"extended care facility: [**hospital1 **] 4\",\n    \"condition_at_discharge\": \"medically stable, on valium taper, with continued acute psychosis\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"bilateral lower extremity dvt's\", \"hemorrhagic pericardial effusion\", \"esrd on hd t, th, sat\", \"h/o c. diff\", \"h/o osteomyelitis at the t9 vertebrae\", \"multiple line infections\"],\n    \"discharge_diagnoses\": [\"groin abscess, av fistula\", \"diabetes mellitus 2\", \"end stage renal disease\", \"chronic diastolic heart failure\"],\n    \"high_risk_medications\": [\"warfarin\", \"meropenem\"],\n    \"follow_up_instructions\": [\"vascular surgery in 2 weeks\"],\n    \"discharge_disposition\": \"extended care facility: [**hospital3 2558**] - [**location (un) **]\",\n    \"condition_at_discharge\": \"out of bed with assistance to chair or wheelchair\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cad s/p 4 vessel cabg in [**2137**]\"],\n    \"discharge_diagnoses\": [\"bradycardia\"],\n    \"high_risk_medications\": [\"pacemaker\", \"metoprolol\", \"simvastatin\"],\n    \"follow_up_instructions\": [\"[**name10 (nameis) 676**] clinic phone:[**telephone/fax (1) 62**] date/time:[**2145-9-29**] 3:00\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"afebrile, vital signs stable, ambulatory\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"left parieto-occipital hemorrhage in 2021\"],\n    \"discharge_diagnoses\": [\"seizure\", \"h/o left parietal/occipital hemorrhage\", \"hepatitis c\", \"thrombocytopenia\"],\n    \"high_risk_medications\": [\"levetiracetam\", \"pantoprazole\"],\n    \"follow_up_instructions\": [\"f/u appointment with dr. [**last name (stitle) **] scheduled for [**2173-4-13**], 11.15 am.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable - ambulating, no pt needs\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"ETOH withdrawal in 2021\"],\n    \"discharge_diagnoses\": [\"Seizure\", \"Cirrhosis\"],\n    \"high_risk_medications\": [\"Keppra\", \"Ampicillin\"],\n    \"follow_up_instructions\": [\"Neurology in 2 weeks\", \"Primary care in 2 weeks\", \"Hepatology as needed\", \"Continue to abstain from alcohol\", \"Continue Keppra 1g po bid\", \"Continue Ampicillin 500mg po q6hrs x 4 days\", \"Continue multivitamin and folic acid 1mg daily\", \"Continue omeprazole 20mg daily\", \"Continue thiamine as needed\", \"If any questions or concerns, call [**phone (unstructured) **]\"],\n    \"discharge_disposition\": \"Home\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"s/p right fenur post mvc [**2111**]\"],\n    \"discharge_diagnoses\": [\"s/p fall off a horse and subsequently trampling 1. grade v liver laceration 2. hemoperitoneum 3. right lung laceration and contusion 4. right rib fractures 8 and 10 5. small right pneumothorax\"],\n    \"high_risk_medications\": [\"tramadol 50 mg tablet\", \"hydromorphone 2 mg tablet\"],\n    \"follow_up_instructions\": [\"call the acute care clinic at [**telephone/fax (1) 600**] for a follow up appointment in [**2-22**] weeks.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"mental status: clear and coherent. level of consciousness: alert and interactive. activity status: ambulatory - independent.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"2021: CHF\", \"2021: RCC with pancreatic mass\", \"2021: Worsening abdominal pain\"],\n    \"discharge_diagnoses\": [\"RLL pneumonia\", \"Anemia\"],\n    \"high_risk_medications\": [\"Methadone\", \"Hydromorphone\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\", \"acute anterior STEMI in 2022\"],\n    \"discharge_diagnoses\": [\"Congestive heart failure\", \"Atrial fibrillation\", \"Hemoptysis\", \"Hypertension\", \"Respiratory failure\"],\n    \"high_risk_medications\": [\"amiodarone\", \"fentanyl\", \"insulin\", \"opioids\", \"anticoagulants\"],\n    \"follow_up_instructions\": [\"Cardiology in 1-2 weeks\", \"PCP follow-up in 2-4 weeks\"],\n    \"discharge_disposition\": \"Extended care facility\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"mds in 2019\", \"hypothyroidism management in 2021\"],\n    \"discharge_diagnoses\": [\"nausea and vomiting\", \"hypotension\", \"fall\"],\n    \"high_risk_medications\": [\"lorazepam\", \"propoxyphene n-acetaminophen\"],\n    \"follow_up_instructions\": [\"Neurosurgery West on 2022-11-08\", \"Radiology on 2022-11-14\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"acute respiratory failure\", \"congestive heart failure secondary to diastolic dysfunction\", \"COPD, acute exacerbation\", \"sepsis\", \"methicillin sensitive staphylococcus aureus tracheobronchitis\", \"hypertension\", \"pneumonia secondary to staphylococcus aureus\", \"arrhythmia secondary to wandering atrial pacemaker\", \"status post tracheostomy\", \"status post percutaneous gastrostomy tube placement\", \"acute renal failure\"],\n    \"high_risk_medications\": [\"insulin\", \"opioids\", \"anticoagulants\", \"heparin\", \"albuterol\", \"atrovent\", \"lansoprazole\", \"percocet\", \"fluticasone\", \"prednisone\", \"metoprolol\", \"ativan\"],\n    \"follow_up_instructions\": [\"Cardiology in 7-10 days\", \"Primary care physician follow-up at VA within 7-10 days after discharge from rehabilitation facility\"],\n    \"discharge_disposition\": \"rehabilitation facility\",\n    \"condition_at_discharge\": \"fair\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"esophagogastroduodenoscopy in 2156-10-28\", \"esophagectomy in 2157-3-9\"],\n    \"discharge_diagnoses\": [\"esophageal cancer\", \"paf\"],\n    \"high_risk_medications\": [\"diltiazem hcl\", \"metoprolol tartrate\", \"oxycodone\", \"acetaminophen\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Hematology/Oncology in 2157-3-29\"],\n    \"discharge_disposition\": \"home with service\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Pulmonary sarcoidosis, Type 2 diabetes, Congestive heart failure, Pulmonary hypertension, Iron-deficiency anemia, Gastroesophageal reflux disease\"],\n    \"discharge_diagnoses\": [\"Sarcoidosis\", \"Pulmonary hypertension\", \"Right-sided heart failure\", \"Chronic obstructive pulmonary disease\", \"Diabetes\", \"Anemia\"],\n    \"high_risk_medications\": [\"Sildenafil citrate\", \"Iron sulfate\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Another appointment with Dr. [**last name (stitle) 575**]\", \"Sleep apnea study center\", \"Interventional pulmonology for transtracheal oxygen therapy\", \"Pulmonary rehabilitation\"],\n    \"discharge_disposition\": \"Home with services\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"embolic stroke in 2021\"],\n    \"discharge_diagnoses\": [\"coronary artery disease\", \"left carotid stenosis\"],\n    \"high_risk_medications\": [\"clopidogrel\", \"insulin (hydromorphone)\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) **] in 4 weeks, call for appt\", \"dr. [**last name (stitle) **] in [**3-11**] weeks, call for appt\", \"local cardiologist in [**3-11**] weeks, call for appt\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"COPD in 2021\", \"Aspiration event/hypoxic respiratory failure in 2022\"],\n    \"discharge_diagnoses\": [\"Aspiration pneumonitis\", \"UTI\", \"AF/AFLutter\", \"COPD\"],\n    \"high_risk_medications\": [\"Prednisone\", \"Ciprofloxacin\", \"Keflex\", \"Fluconazole\"],\n    \"follow_up_instructions\": [\"PCP within 2 weeks\", \"CBC in 1-22 days\", \"Follow up with [**hospital3 1186**] - [**location (un) 538**] as instructed\"],\n    \"discharge_disposition\": \"Extended care facility: [**hospital3 1186**] - [**location (un) 538**]\",\n    \"condition_at_discharge\": \"Stable. Tolerating po.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cerebellar strokes\", \"frontal stroke\"],\n    \"discharge_diagnoses\": [\"aspiration pneumonia\", \"hypertension\", \"dementia\"],\n    \"high_risk_medications\": [\"dipyridamole-aspirin\", \"clopidogrel bisulfate\", \"albuterol sulfate\", \"atenolol\", \"levofloxacin\", \"metronidazole\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) 1728**] as needed\"],\n    \"discharge_disposition\": \"home with service facility: healthcare [**hospital 94111**] hospice\",\n    \"condition_at_discharge\": \"stable, tolerating thickened pos, minimal physical activity\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Throat cancer in 2022\"],\n    \"discharge_diagnoses\": [\"Foreign body in airway\"],\n    \"high_risk_medications\": [],\n    \"follow_up_instructions\": [\"[**last name (lf) **],[**name6 (md) 3049**] chalice md, Wednesday [**2104-11-19**] 1:00pm, [**hospital3 **], [**hospital1 **],[**numeric identifier 53049**], [**telephone/fax (1) 87329**]\", \"[**last name (lf) **],[**first name3 (lf) **] a. location: family medical assoc, [**location (un) 24577**], [**apartment address(1) 91469**], [**location (un) **],[**numeric identifier 6086**], [**telephone/fax (1) 40489**]\"],\n    \"discharge_disposition\": \"home with VNA\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Fall, intubated, ICU stay at [**hospital1 18**]\"],\n    \"discharge_diagnoses\": [\"Subdural hematoma\", \"Subarachnoid hemorrhage\", \"Occipital skull fracture\"],\n    \"high_risk_medications\": [\"Oxycodone\", \"Insulin\", \"Heparin\", \"Levetiracetam\"],\n    \"follow_up_instructions\": [\"Dr. [**last name (stitle) 548**] in 4 weeks with a head ct without contrast.\"],\n    \"discharge_disposition\": \"[**location (un) 8162**]-[**location (un) 8163**] village - [**location (un) **]\",\n    \"condition_at_discharge\": \"Ambulatory - requires assistance or aid (walker or cane)\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Paraplegia in 2003\", \"Community acquired pneumonia in 2021\"],\n    \"discharge_diagnoses\": [\"Hypotension\", \"Hypothermia\", \"Hyperkalemia\", \"Chronic kidney disease\"],\n    \"high_risk_medications\": [\"Insulin\"],\n    \"follow_up_instructions\": [\"Tuesday [**2166-12-23**] 10:45am with [**first name3 (lf) **] 896\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"clear and coherent\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"rca stent in 2060\", \"inferior myocardial infarction restenosis of rca s/p bare metal stent of prca in 2160\", \"rca stent in unknown\"],\n    \"discharge_diagnoses\": [\"coronary artery disease s/p coronary artery bypass graft x 4\", \"s/p inferior myocardial infarction\", \"s/p bare metal stent of prca in 2160\", \"hypertension\", \"hyperlipidemia\", \"chronic chest pain\", \"hypothyroidism\", \"noninsulin dependent diabetes mellitus\", \"h/o prostate cancer (s/p radiation treatment in 2164)\"],\n    \"high_risk_medications\": [\"oxycodone\", \"plavix\", \"lisinopril\", \"metoprolol succinate\", \"aspirin\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Surgeon in 2 weeks\", \"Primary care in 2-22 weeks\"],\n    \"discharge_disposition\": \"extended care facility\",\n    \"condition_at_discharge\": \"alert and oriented x3, nonfocal ambulating with steady gait with assistance\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"acute renal failure in 2021\", \"acute on chronic renal failure in 2027\"],\n    \"discharge_diagnoses\": [\"hcv cirrhosis s/p liver transplant\", \"pulmonary edema\", \"resolved myocardial stunning\", \"resolved hyperglycemia on steroids\", \"chronic back pain\"],\n    \"high_risk_medications\": [\"oxycodone\", \"insulin\", \"tacrolimus\"],\n    \"follow_up_instructions\": [\"provider: [**first name11 (name pattern1) 819**] [**last name (namepattern4) 820**], md phone:[**telephone/fax (1) 673**], date/time: [**2187-5-10**] 10:00am\"],\n    \"discharge_disposition\": \"home with service facility: vna of southeastern mass.\",\n    \"condition_at_discharge\": \"mental status: clear and coherent level of consciousness: alert and interactive activity status: ambulatory - requires assistance or aid (walker or cane)-impulsive with activities/walking\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"HIV in 2021\"],\n    \"discharge_diagnoses\": [\"Viral syndrome\", \"Hypercapneia\", \"Excess sedation\"],\n    \"high_risk_medications\": [\"Percocet\", \"Tizanidine\", \"Trazodone\"],\n    \"follow_up_instructions\": [\"Follow up with pcp as scheduled in 2 days\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"Chronic lymphocytic leukemia\", \"Congestive heart failure\", \"Pleural effusion\"],\n    \"high_risk_medications\": [\"insulin\"],\n    \"follow_up_instructions\": [\"Cardiology in 1-2 weeks\", \"Hematology/BMT in 7-18-2174\"],\n    \"discharge_disposition\": \"Extended care facility: hospital1 3894\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"ventricular tachycardia controlled on amiodarone in [**2155-8-12**]\"],\n    \"discharge_diagnoses\": [\"ischemic cardiomyopathy, status-post icd, nyha class 4, on home o2\", \"coronoary artery disease, status-post cabg x 4 in [**7-/2148**]\", \"atrial fibrillation\"],\n    \"high_risk_medications\": [\"amiodarone\", \"digoxin\"],\n    \"follow_up_instructions\": [\"cardiology in 9-6 at 2:30pm, cardiology in 10-14 at 10:00am, renal on 11-29 at 2:30pm\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"DM in 2021\", \"Fatty liver DM in 2021\"],\n    \"discharge_diagnoses\": [\"Acute myocardial infarction refractory to all medical therapy including intra-aortic balloon pump\", \"Cardiomyopathy\", \"Severe 3-vessel coronary disease\", \"Diabetes\", \"Diminished left ventricular function, ejection fraction of 30%\"],\n    \"high_risk_medications\": [\"Warfarin\", \"Insulin regular human\", \"Lantus\"],\n    \"follow_up_instructions\": [\"Cardiologist [**first name8 (namepattern2) 177**] [**last name (namepattern1) **], md on [**2129-7-11**] 1:00\", \"Neurologist dr.[**first name (stitle) **] # [**telephone/fax (1) 2574**], appointment arranged for [**last name (stitle) 39975**] in [**2-24**] weeks\"],\n    \"discharge_disposition\": \"Extended care\",\n    \"condition_at_discharge\": \"Alert and oriented x 12-25, nonfocal, deconditioned right shoulder deficit, left lid lag, sternal pain managed with oral analgesics, sternal incision - healing well, no erythema or drainage\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\", \"CABG x 2, mitral valve replacement in 2021\", \"Cardiac catheterization in 2021\", \"Stress test in 2021\"],\n    \"discharge_diagnoses\": [\"Diastolic CHF\", \"CAD\", \"DM\", \"Hep C\"],\n    \"high_risk_medications\": [\"Oxycodone-acetaminophen\", \"Methadone\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Primary care physician follow-up\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"ulcerative colitis in 2021\"],\n    \"discharge_diagnoses\": [\"ulcerative colitis\"],\n    \"high_risk_medications\": [\"prednisone\", \"zolpidem\", \"naproxen\", \"pantoprazole\", \"flagyl\", \"levofloxacin\"],\n    \"follow_up_instructions\": [\"cbc next week at local hospital and report results by phone to dr. [**last name (stitle) 9746**]\", \"follow up with dr. [**last name (stitle) 79**] in 2 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"end-stage renal disease (on hemodialysis)\", \"status post cerebrovascular accident\"],\n    \"discharge_diagnoses\": [\"non-st-elevation myocardial infarction\", \"status post cardiac catheterization with percutaneous transluminal coronary angioplasty and stenting of the left anterior descending artery\", \"upper gastrointestinal bleed\", \"status post arteriovenous fistula repair and thrombectomy\", \"end-stage renal disease (on hemodialysis)\", \"cerebrovascular accident with residual left hemiparesis\", \"chronic obstructive pulmonary disease\", \"gout\", \"diverticulosis\", \"multiple escherichia coli bacteremia infections\"],\n    \"high_risk_medications\": [\"plavix\", \"sublingual nitroglycerin\"],\n    \"follow_up_instructions\": [\"vascular/transplant surgery on 1-31 at 2 p.m.\", \"primary care physician on 2-11 at 3:30 p.m.\", \"gastroenterology on 2-12 at 1:20 p.m.\", \"cardiology on 2-13 at 9 a.m.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good; ambulating without difficulty, chest pain free, and without further evidence of bleeding.\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Hodgkin's lymphoma in 1964, Splenectomy, Pericarditis\"],\n    \"discharge_diagnoses\": [\"Influenza type B, Severe MSSA multilobar pneumonia\"],\n    \"high_risk_medications\": [\"Nafcillin\"],\n    \"follow_up_instructions\": [\"Dr. [**first name11 (name pattern1) **] [**last name (namepattern4) 13447**], md on [**2181-3-6**] at 9:00, Dr. [**first name11 (name pattern1) **] [**last name (namepattern4) 8157**], m.d. on [**2181-5-29**] at 10:45, Dr. [**name10 (nameis) **] [**name8 (md) 5647**], m.d. on [**2182-1-24**] at 10:40\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"aortic aneurysm, followed at hospital1 2025\"],\n    \"discharge_diagnoses\": [\"type a aortic dissection\", \"hypertension\", \"hypothyroid\", \"benign prostatic hypertrophy\", \"failed swallow/vocal cord paralysis\", \"s/p open g-tube placement\"],\n    \"high_risk_medications\": [\"amiodarone\", \"albuterol sulfate\", \"ipratropium bromide\", \"albuterol-ipratropium\", \"fluticasone\", \"levofloxacin\", \"vancomycin\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) **] 4 weeks\", \"dr. [**last name (stitle) **] 2 weeks\", \"cardiologist 2 weeks\", \"ent after discharge\"],\n    \"discharge_disposition\": \"extended care facility: hospital1 700 - location (un) 701\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"coronary artery disease status post bypass surgery in 2167, percutaneous transluminal coronary angioplasty in 2175-11-10, left femoral-popliteal bypass redone in 2176-12-10, cerebrovascular accident in 2167 on the right, with subsequent right carotid endarterectomy\"],\n    \"discharge_diagnoses\": [\"gastrointestinal bleed from a dieulafoy lesion\", \"acute myocardial infarction\"],\n    \"high_risk_medications\": [\"dilaudid\", \"percocet\", \"lopressor\", \"aspirin\", \"norvasc\", \"colace\", \"lipitor\", \"hydrochlorothiazide\", \"zantac\", \"iron\", \"multivitamin\", \"protonix\", \"lasix\", \"zestril\", \"imdur\", \"enteric-coated aspirin\", \"cepalol lozenge\", \"robitussin ac\", \"tessalon perles\", \"ambien\", \"nitroglycerin\"],\n    \"follow_up_instructions\": [\"with his primary care provider, [**last name (namepattern4) **]. [**first name (stitle) 1511**]. [**first name11 (name pattern1) **] [**last name (namepattern1) 1211**], m.d. [**md number(1) 1212**]\"],\n    \"discharge_disposition\": \"to [**hospital **] rehabilitation for short-term rehabilitation\",\n    \"condition_at_discharge\": \"improving\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"abdominal aortic aneurysm (s/p endovascular repair on 2194-8-2, s/p endograft repair 2194-9-2, s/p endograft repair 2195-5-12, s/p coil embolization 2195-8-11)\"],\n    \"discharge_diagnoses\": [\"abdominal aortic aneurysm, status post stent graft repair with enlargement and continued endoleak\"],\n    \"high_risk_medications\": [\"oxycodone-acetaminophen (5mg-325mg) [**2-16**] tab po q4h:prn pain\", \"metoprolol tartrate 25 mg po bid\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) **] thursday [**10-29**] 2:10pm\", \"provider: [**first name11 (name pattern1) **] [**last name (namepattern4) 1244**], md phone:[**telephone/fax (1) 1237**] date/time:[**2195-11-3**] 9:30\"],\n    \"discharge_disposition\": \"home with vna\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"acute cholecystitis\"],\n    \"high_risk_medications\": [\"hydromorphone\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [],\n    \"discharge_diagnoses\": [\"epiglottitis\"],\n    \"high_risk_medications\": [\"clindamycin\", \"medrol\"],\n    \"follow_up_instructions\": [\"[**last name (namepattern4) **] 1 week\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"improved\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"CHF\", \"Respiratory distress\"],\n    \"high_risk_medications\": [\"Lasix\", \"Isordil\"],\n    \"follow_up_instructions\": [\"Cardiology in 1 week\"],\n    \"discharge_disposition\": \"Rehabilitation\",\n    \"condition_at_discharge\": \"Improved CHF\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Gallstone pancreatitis in 2021\"],\n    \"discharge_diagnoses\": [\"Gallstone pancreatitis\"],\n    \"high_risk_medications\": [\"Insulin\", \"opioids\", \"antibiotics (imipenem)\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Respiratory therapy as needed\"],\n    \"discharge_disposition\": \"Ventilatory rehab\",\n    \"condition_at_discharge\": \"Still symptomatic\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"myocardial infarction in 2160\", \"ventricular fibrillation arrest\"],\n    \"discharge_diagnoses\": [\"status post coronary artery bypass grafting times three\", \"status post myocardial infarction with left anterior descending stent\", \"status post ventricular fibrillation arrest\", \"hypertension\", \"hypercholesterolemia\", \"varicose veins - right lower extremity\"],\n    \"high_risk_medications\": [\"amiodarone\", \"plavix\", \"percocet\", \"ibuprofen\"],\n    \"follow_up_instructions\": [\"Cardiology in 2-3 weeks\", \"Primary care physician in 1-2 weeks\", \"Cardiologist in 6 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"peripheral vascular disease in 2021\"],\n    \"discharge_diagnoses\": [\"ischemia of the right extremity secondary to graft occlusion secondary to thrombus\", \"post procedure delirium\", \"history of alcohol use\", \"history of nicotine abuse\"],\n    \"high_risk_medications\": [\"plavix 75 mg daily\", \"aspirin 325 mg daily\", \"oxycodone/acetaminophen 5/325 tablets\", \"coumadin 75 mg at bed time\"],\n    \"follow_up_instructions\": [\"primary care physician regarding continuation of smoking cessation program\", \"metoprolol 75 mg q.i.d.\", \"pentamidine 20 mg tablets b.i.d\", \"vitamin b12 100 mcg daily\", \"inr should be monitored at least twice a week. the goal inr is 2.0 to 3.0. these results should be called to dr.[**name (ni) 7446**] office.\"],\n    \"discharge_disposition\": \"regular nursing floor\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\", \"CHF evaluation and aggressive diuresis in 2022\"],\n    \"discharge_diagnoses\": [\"Decompensated congestive heart failure\", \"Severe diastolic ventricular dysfunction (EF <20%)\"],\n    \"high_risk_medications\": [\"Amiodarone\", \"Bumetanide\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Kidneys in 2 weeks\", \"ICD in 6 months\", \"Dr. [**last name (stitle) 437**] on [**2166-3-24**] at 10:00 am\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CABG in 2017\"],\n    \"discharge_diagnoses\": [\"NSaid induced gastritis\", \"Upper GI bleeding\", \"Subdural and subarachnoid hemorrhage\"],\n    \"high_risk_medications\": [\"Phenytoin\", \"Aspirin\", \"Pantoprazole\"],\n    \"follow_up_instructions\": [\"Neurosurgery in 6 weeks\", \"Doctor next week\"],\n    \"discharge_disposition\": \"Extended care facility\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [],\n    \"discharge_diagnoses\": [\"C6 vertebral body fracture\", \"Left tibial plateau fracture\", \"Right intertrochanteric femur fracture\", \"Embolic CVA\", \"Pseudomonas infection\"],\n    \"high_risk_medications\": [\"Coumadin\", \"Lovenox\", \"Regular insulin sliding scale\", \"Roxicet\", \"Lopressor\", \"Albuterol\", \"Atrovent\", \"Impact with fiber tube feeds\"],\n    \"follow_up_instructions\": [\"Orthopedics (Dr. first name (stitle) 13469) on 6-9\", \"Gastroenterology or general surgery for rectal mass evaluation\", \"Neurosurgery (Dr. last name (stitle) 1327) regarding c6 vertebral body fracture\"],\n    \"discharge_disposition\": \"Rehab\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"bph in 2021\"],\n    \"discharge_diagnoses\": [\"benign prostatic hypertrophy\", \"amitriptyline overdose\"],\n    \"high_risk_medications\": [\"amitriptyline\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Primary care physician in 1 week\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"Congestive heart failure (diastolic)\", \"Atrial fibrillation/atrial flutter\", \"Diabetes mellitus\", \"Coronary artery disease\", \"Urinary tract infection\", \"Anemia\", \"Chronic lower extremity ulcerations\", \"Neuropathic pain\", \"Deconditioning\", \"Depression\"],\n    \"high_risk_medications\": [\"Amiodarone\", \"Fentanyl patch\", \"Ceftriaxone\", \"Coumadin\", \"Bumex\", \"Theophylline\", \"Regular insulin sliding-scale\"],\n    \"follow_up_instructions\": [\"Dr. [**first name8 (namepattern2) 449**] [**last name (namepattern1) 2031**] early next week\", \"Dr. [**first name4 (namepattern1) **] [**last name (namepattern1) 73**] later this month\", \"Podiatry later this month\"],\n    \"discharge_disposition\": \"Rehabilitation facility\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Hypotension and bradycardia at [**hospital**]\"],\n    \"discharge_diagnoses\": [\"Atrial fibrillation\", \"Bradycardia and hypotension secondary to medication\", \"Hypertension\", \"E. coli UTI and pneumonia\"],\n    \"high_risk_medications\": [\"Amiodarone\", \"Heparin\", \"Cefpodoxime\"],\n    \"follow_up_instructions\": [\"Cardiac services at [**hospital6 29**] with [**first name11 (name pattern1) 610**] [**initial (namepattern1) **] [**last name (namepattern1) **], md on [**2188-3-3**] 11:00\"],\n    \"discharge_disposition\": \"Extended care facility: [**first name8 (namepattern2) **] [**last name (namepattern1) **] rehab & nursing center - [**location (un) 47**]\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"aneurysm in 2164\"],\n    \"discharge_diagnoses\": [\"basilar tip aneurysm\"],\n    \"high_risk_medications\": [\"aspirin\", \"docusate sodium\", \"sertraline\", \"remeron\"],\n    \"follow_up_instructions\": [\"dr. [**first name (stitle) **] on 7-12-2164\", \"dr. [**first name8 (namepattern2) **] [**last name (namepattern1) **] on 7-12-2164, 4pm\", \"[**telephone/fax (1) 1669**] to schedule an appointment to see dr. [**first name (stitle) **] in 4 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"mental status: clear and coherent. level of consciousness: alert and interactive. activity status: ambulatory - independent.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"adhd in 2021\"],\n    \"discharge_diagnoses\": [\"multiple lacerations of the right hand and fingers\"],\n    \"high_risk_medications\": [\"diazepam, oxycodone, escitalopram, gabapentin\"],\n    \"follow_up_instructions\": [\"Hand clinic next tuesday, 2021-10-03. Call 1 3009 to schedule.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CAD s/p MI in 2018\"],\n    \"discharge_diagnoses\": [\"Duodenal ulcers\", \"Atrial flutter\", \"Anemia: GI bleed\", \"HTN\"],\n    \"high_risk_medications\": [\"Prilosec\", \"Aspirin\", \"Metoprolol\"],\n    \"follow_up_instructions\": [\"Gastroenterology on 11-23\", \"Primary care provider on 10-20\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"well\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cholecystectomy in [**2178**]\", \"revision in [**9-6**]\", \"repair in [**2182-10-1**]\", \"hysterectomy, oophorectomy, rectocele in [**2179-1-29**]\"],\n    \"discharge_diagnoses\": [\"change in mental status\"],\n    \"high_risk_medications\": [\"ketamine\", \"ketamine infusion\", \"methadone\", \"fentanyl\", \"nortriptyline\"],\n    \"follow_up_instructions\": [\"follow-up with your pcp [**last name (namepattern4) **] [**12-2**] weeks.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable, pt with abdominal pain at baseline, ambulating, tolerating po\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cerebral edema of unknown etiology in 2021\"],\n    \"discharge_diagnoses\": [\"bilateral subdural hematomas\"],\n    \"high_risk_medications\": [\"hydrocodone-acetaminophen\"],\n    \"follow_up_instructions\": [\"appointment with dr. [**first name8 (namepattern2) **] [**last name (namepattern1) **], md on [**2102-9-28**] at 9:15 am. ct scan of the brain without contrast on [**2102-9-28**] at 8:30 am.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"mental status: clear and coherent. level of consciousness: alert and interactive. activity status: ambulatory - independent.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cad s/p rca stent [**2171**]\"],\n    \"discharge_diagnoses\": [\"cad now s/p cabg\", \"chronic systolic heart failure\", \"cad s/p rca stent [**2171**]\", \"htn\", \"lipids\", \"dm\", \"cataracts\", \"t&a\"],\n    \"high_risk_medications\": [\"clopidogrel 75 mg tablet\", \"oxycodone-acetaminophen 5-325 mg tablet\", \"aspirin 81 mg tablet, delayed release (e.c.)\", \"docusate sodium 100 mg capsule\", \"ranitidine hcl 150 mg tablet\", \"metoprolol succinate 100 mg tablet sustained release 24 hr\", \"ferrous gluconate 300 mg (35 mg iron) tablet\", \"ascorbic acid 500 mg tablet\", \"metformin 500 mg tablet\", \"crestor 20 mg tablet\", \"glipizide 10 mg tab,sust rel osmotic push 24hr\", \"lantus 100 unit/ml solution\", \"furosemide 20 mg tablet\", \"potassium chloride 20 meq tab sust.rel. particle/crystal\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) 29378**] 2 weeks\", \"dr. [**first name (stitle) **] 4 weeks\", \"dr. [**last name (stitle) 5874**] 2 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"small bowel obstruction\", \"colon cancer in 2174\"],\n    \"discharge_diagnoses\": [\"small bowel obstruction\", \"post-op atrial fibrillation\", \"post-op wound infection\", \"post-op dehydration r/t loose stools\", \"negative c-dif x 2\"],\n    \"high_risk_medications\": [\"hydrocodone-acetaminophen\", \"viagra\"],\n    \"follow_up_instructions\": [\"Call dr.[**name (ni) 6218**] office to make an appointment in [**12-7**] weeks, [**telephone/fax (1) 8792**] for removal of staples.\", \"Call you pcp, [**known lastname 13532**],[**name11 (nameis) **] [**name initial (nameis) **]. [**telephone/fax (1) 250**], to make an appointment in 1 week or as needed.\"],\n    \"discharge_disposition\": \"home with vna\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Dilated cardiomyopathy, large thrombus in the left ventricle - [**hospital6 256**] - [**2190-1-28**] to [**2190-2-10**]\"],\n    \"discharge_diagnoses\": [\"Large left ventricular clot\", \"Three vessel coronary artery disease\", \"Type II diabetes mellitus, diet controlled\", \"Hypertension\", \"Hypercholesterolemia\", \"Asthma\", \"Cholelithiasis\", \"Lower back pain\"],\n    \"high_risk_medications\": [\"Coumadin\"],\n    \"follow_up_instructions\": [\"Dr. [**last name (stitle) **] - [**2-12**]\", \"Dr.[**name (ni) 3101**] office - one month's time\", \"Dr. [**last name (stitle) 70**] - [**2190-3-23**]\", \"Carotid arteries ultrasound prior to Dr.[**name (ni) 3101**] visit\", \"Repeat echocardiogram prior to Dr.[**name (ni) 27686**] visit\"],\n    \"discharge_disposition\": \"Hospital6 256\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\", \"NSTEMI in 2018\"],\n    \"discharge_diagnoses\": [\"AMI\", \"ischemic cardiomyopathy\", \"schizophrenia\", \"GERD\"],\n    \"high_risk_medications\": [\"amiodarone\", \"risperidone\", \"olanzapine\", \"zyprexa\"],\n    \"follow_up_instructions\": [\"Cardiology in 1 month\", \"PCP appointment in the next 3-5 days\", \"Lab work (INR, potassium, magnesium) on 2018-7-15\", \"Cardiac MRI on 2023-7-25\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"Diabetic ketoacidosis\", \"Viral gastroenteritis\", \"Right lower lobe pneumonia\", \"Small upper gastrointestinal bleed\", \"Right sided parapneumonic effusion\"],\n    \"high_risk_medications\": [\"Insulin\", \"Percocet\"],\n    \"follow_up_instructions\": [\"[**hospital **] clinic with dr. [**first name8 (namepattern2) 518**] [**last name (namepattern1) 28587**]\", \"[**last name (un) **] for teaching in calorie counting\", \"follow-up at the [**last name (namepattern4) **]\", \"next 1-2 weeks as well\", \"[**last name (namepattern1) **] [**last name (namepattern1) **] in the next 1-2 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [],\n    \"discharge_diagnoses\": [\"aortic stenosis s/p avr atrial fibrillation s/p maze and laa ligation confusion\"],\n    \"high_risk_medications\": [\"amiodarone\", \"metoprolol tartrate\", \"warfarin\"],\n    \"follow_up_instructions\": [\"dr.[**last name (stitle) 914**] in 2 weeks ([**telephone/fax (1) 170**]) please call for appointment\", \"dr [**last name (stitle) 83064**] in 6 week ([**telephone/fax (1) 83065**]) please call for appointment dr [**last name (stitle) 39975**] in 4 weeks please call for appointment pt/inr for coumadin dosing - s/p maze and laa ligation, goal inr 2.0-2.5 please check pt/inr three times a week until on steady dose\"],\n    \"discharge_disposition\": \"extended care facility: tba\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Metastatic prostate cancer, s/p simple bilateral orchiectomy (2029-11-19)\"],\n    \"discharge_diagnoses\": [\"Bladder perforation, Bladder tumor\"],\n    \"high_risk_medications\": [\"Tylenol-codeine #3 300-30 mg tablet\"],\n    \"follow_up_instructions\": [\"Call dr.[**first name8 (namepattern2) **] [**last name (namepattern1) **] office ([**telephone/fax (1) 7707**]) for follow-up and if you have any questions (page dr.[**first name8 (namepattern2) **] [**last name (namepattern1) 770**] at [**telephone/fax (1) 2756**]).\", \"Call primary care doctor for a general follow-up appointment after hospitalization.\", \"Call heme/onc for an appointment with dr.[**last name (stitle) **] ( ([**telephone/fax (1) 55583**]) for follow-up of hematuria, finding of bladder tumor.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"s/p pci\", \"s/p perm. pacemaker placement\"],\n    \"discharge_diagnoses\": [\"coronary artery disease s/p coronary artery bypass graft x 4\"],\n    \"high_risk_medications\": [\"insulin\", \"warfarin\"],\n    \"follow_up_instructions\": [\"make an appointment with your primary care provider [**last name (namepattern4) **] [**11-24**] weeks.\", \"make an appointment with dr. [**first name (stitle) 1075**] for 1-2 weeks.\", \"make an appointment with dr. [**last name (stitle) **] for 4 weeks.\"],\n    \"discharge_disposition\": \"extended care facility: [**hospital1 **] senior healthcare - [**location (un) 1887**]\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"s/p l partial nephrectomy for angiomyolipoma\", \"s/p appendectomy\", \"s/p hysterectomy\"],\n    \"discharge_diagnoses\": [\"right hepatic lobectomy\"],\n    \"high_risk_medications\": [\"hydromorphone hcl\", \"pantoprazole sodium\"],\n    \"follow_up_instructions\": [\"provider: [**first name11 (name pattern1) **] [**last name (namepattern4) 707**], md, phd[**md number(3) **]: lm [**hospital unit name 3126**] center phone:[**telephone/fax (1) 673**] date/time:[**2139-12-16**] 10:00\", \"provider: [**first name11 (name pattern1) **] [**last name (namepattern4) 707**], md, phd[**md number(3) **]: lm [**hospital unit name 3126**] center phone:[**telephone/fax (1) 673**] date/time:[**2139-12-23**] 10:40\"],\n    \"discharge_disposition\": \"home with service  facility: all care vna of greater [**location (un) **]\",\n    \"condition_at_discharge\": \"good/stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"status post cabg in [**2116-12-26**] with lima to the lad, saphenous vein graft to d1, saphenous vein graft to om2, and saphenous vein graft to pda.\"],\n    \"discharge_diagnoses\": [\"acute myocardial infarction, inferior, initial episode.\", \"coronary artery disease, native.\", \"coronary artery disease, saphenous vein graft.\"],\n    \"high_risk_medications\": [\"plavix\", \"integrilin\", \"aspirin\", \"metoprolol tartrate\", \"lisinopril\", \"atorvostatin\"],\n    \"follow_up_instructions\": [\"follow-up with your primary care provider.\", \"primary cardiology to follow your course.\", \"please follow-up joint culture by calling [**telephone/fax (1) 4645**] and have your information available.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable blood pressure and heart rate. no further arrhythmias. afebrile. no chest pain.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"aaa repair in 2021\", \"UTI and C. diff in [**state 108**]\"],\n    \"discharge_diagnoses\": [\"upper GI bleed\", \"acute blood loss anemia\", \"hypothyroidism\", \"hypercholesterolemia\", \"esophageal stricture\", \"mild aortic stenosis\"],\n    \"high_risk_medications\": [\"hydrocodone-acetaminophen\"],\n    \"follow_up_instructions\": [\"primary care: call to schedule an appointment within 1-2 weeks\", \"gastroenterology: call to schedule an appointment\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"ST elevation myocardial infarction\"],\n    \"high_risk_medications\": [\"insulin\", \"opioids\", \"anticoagulants\"],\n    \"follow_up_instructions\": [\"Cardiac services in 2020-5-3 at 9:00 am with [**first name8 (namepattern2) **] [**last name (namepattern1) **], m.d.\"],\n    \"discharge_disposition\": \"extended care facility: commons residence at orchard - [**location (un) 2624**] (a.k.a. [**location (un) 5481**])\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"pneumonia\", \"COPD\", \"pulmonary fibrosis\", \"atrial fibrillation\", \"diabetes mellitus\"],\n    \"high_risk_medications\": [\"insulin\", \"digoxin\", \"warfarin\", \"metronidazole\", \"metoprolol\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Pulmonary in 2 weeks\", \"Primary care in 2 weeks\"],\n    \"discharge_disposition\": \"extended care facility: [**hospital3 7**] & rehab center - [**hospital1 8**]\",\n    \"condition_at_discharge\": \"stable on 2-3l o2 nc.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"Community-acquired pneumonia\", \"CHF exacerbation\"],\n    \"high_risk_medications\": [\"warfarin\", \"bumetanide\", \"salmeterol\", \"diltiazem\", \"pantoprazole\", \"cefpodoxime\", \"azithromycin\"],\n    \"follow_up_instructions\": [\"Call PCP, [**last name (namepattern4) **]. [**first name8 (namepattern2) **] [**name (stitle) **] ([**telephone/fax (1) 102299**], to schedule an appointment within the next 2 weeks.\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Tracheoplasty in 2183\", \"Stent removal in 2183\"],\n    \"discharge_diagnoses\": [\"Tracheobronchomalasia\"],\n    \"high_risk_medications\": [\"itraconazole\", \"linezolid\", \"oxycodone-acetaminophen\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) 952**] upon discharge.\"],\n    \"discharge_disposition\": \"[**hospital6 6689**] - [**location (un) 6691**]\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Right le cellulitis\"],\n    \"discharge_diagnoses\": [\"Bradycardia secondary to beta-blocker toxicity\"],\n    \"high_risk_medications\": [\"Insulin\", \"Haloperidol\", \"Plavix\"],\n    \"follow_up_instructions\": [\"Transfer to outside hospital\"],\n    \"discharge_disposition\": \"Extended care facility: hospital 1474\",\n    \"condition_at_discharge\": \"Fair, vital signs stable, patient ambulating\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"pulmonary embolus in [**2160**]\", \"thoracic osteomyelitis in [**2166**]\"],\n    \"discharge_diagnoses\": [\"saddle pulmonary embolism\"],\n    \"high_risk_medications\": [\"insulin glargine\", \"warfarin\", \"oxycodone\"],\n    \"follow_up_instructions\": [\"[**first name8 (namepattern2) **] [**last name (namepattern1) 2967**], [**name12 (nameis) 280**], [**name10 (nameis) 706**] mri, [**name10 (nameis) 5005**] [**last name (namepattern4) 5342**], md\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cad in 2138\", \"mi in 2138\", \"pci to lad and lcx in 2138\", \"mva in 2140\", \"bilat knee arthroscopy in 2140\", \"deviated septum repair in 2140\"],\n    \"discharge_diagnoses\": [\"cad\", \"mr\", \"mi\", \"htn\", \"lipids\", \"obesity\", \"mva\"],\n    \"high_risk_medications\": [\"oxycodone\", \"oxycodone-acetaminophen\", \"clopidogrel\"],\n    \"follow_up_instructions\": [\"[**last name (lf) **],[**first name3 (lf) **]  [**telephone/fax (1) 7401**]  follow-up appointment should be in 2 weeks\", \"[**last name (prefixes) 413**],[**first name3 (lf) 412**]  [**telephone/fax (1) 170**]  follow-up appointment should be in 1 month\", \"[**last name (lf) **],[**first name3 (lf) **] d.  [**telephone/fax (1) 6256**]  follow-up appointment should be in 2 weeks\"],\n    \"discharge_disposition\": \"home with service\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"pvd s/p bil sfa stents in 2196\"],\n    \"discharge_diagnoses\": [\"cad s/p opcabg x4\", \"htn\", \"lipids niddm\", \"oa\", \"bph\"],\n    \"high_risk_medications\": [\"clopidogrel\", \"metoprolol tartrate\", \"oxycodone-acetaminophen\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) 7640**] in [**12-31**] weeks\", \"dr. [**last name (stitle) 656**] in [**2-1**] weeks\", \"dr. [**first name (stitle) **] in 4 weeks\"],\n    \"discharge_disposition\": \"home with service [**company **]\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"paroxysmal atrial fibrillation status post ablation at hospital1 18 on 2114-3-19\"],\n    \"discharge_diagnoses\": [\"pneumonia\", \"atrial fibrillation status post ablation\", \"congestive heart failure\", \"anemia\"],\n    \"high_risk_medications\": [\"oxycodone\", \"amiodarone\", \"coumadin\", \"morphine\"],\n    \"follow_up_instructions\": [\"Cardiology in 1 week of return to [state 3908]\", \"Repeat chest x-ray at 1 week\", \"Outpatient pulmonary function tests once recovered\"],\n    \"discharge_disposition\": \"return to relatives' [name2 (ni) ] in [hospital1 ], before returning to [state 3908] in approximately 1 week\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"breast cancer\", \"lung cancer\"],\n    \"discharge_diagnoses\": [\"left temporal mass\"],\n    \"high_risk_medications\": [\"oxycodone\", \"pantoproxole\", \"keppra\", \"dexamethasone\"],\n    \"follow_up_instructions\": [\"speech therapy evaluation and treatment\", \"follow-up appointment in the brain [**hospital 341**] clinic on [**2105-3-9**]\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"alert and oriented eyes open spontaneously independently ambulatory difficulty naming objects, word finding difficulty strength is full incision is well approximated and closed with disolvable sutures incision is clean, dry , intact\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\", \"abdominal malignancy workup in 2022\"],\n    \"discharge_diagnoses\": [\"prosthetic aortic valve stenosis\", \"chronic systolic heart failure\", \"bicuspid aortic valve/aortic valve replacement\", \"depression\", \"essential tremor\", \"venous angio-AV malformation\", \"abdominal lymphoma\", \"avascular necrosis-hips\", \"traumatic splenectomy\", \"herniography\", \"right thumb surgery\", \"acl repair\"],\n    \"high_risk_medications\": [\"warfarin\", \"metoprolol tartrate\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) 103201**] 2 weeks\", \"dr. [**last name (stitle) **] 4 weeks\", \"dr. [**last name (stitle) **] 2 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [],\n    \"discharge_diagnoses\": [\"right hip/pelvic fractures\", \"right zygoma fracture\", \"bilateral mandible fractures\", \"status post open reduction/internal fixation of mandible and zygoma fractures\", \"facial and right arm lacerations\", \"methicillin-resistant staphylococcus aureus bacteremia\", \"status post bicycle accident\"],\n    \"high_risk_medications\": [\"vancomycin\", \"lovenox\"],\n    \"follow_up_instructions\": [\"Orthopaedics (dr. [**first name8 (namepattern2) **] [**name (stitle) 1022**]) in 7 to 10 days. Call telephone number [**telephone/fax (1) 5499**] for an appointment. Obtain a right pelvic, hip, judet views prior to this appointment. Follow up with oral and maxillofacial surgery at [**university/college **] dental center. The patient was to call telephone number [**telephone/fax (1) 27823**] for an appointment.\"],\n    \"discharge_disposition\": \"rehabilitation facility\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"hip fracture in 2021\", \"right hip pin placement\"],\n    \"discharge_diagnoses\": [\"aortic stenosis s/p aortic valve replacement\", \"coronary artery disease s/p coronary artery bypass graft x 3\"],\n    \"high_risk_medications\": [\"warfarin\", \"amiodarone\"],\n    \"follow_up_instructions\": [\"dr [**first name (stitle) **] on [**9-19**] at 1:15pm\", \"dr [**last name (stitle) 5017**] on [**9-28**] at 11:45am\", \"please call to schedule appointments with your primary care dr. [**last name (stitle) 85630**] in [**3-21**] weeks\"],\n    \"discharge_disposition\": \"extended care facility: [**hospital **] nursing and rehab\",\n    \"condition_at_discharge\": \"alert and oriented x3 nonfocal ambulating with steady gait\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"coronary artery disease in 2021\", \"cerebrovascular accident in 2-26\"],\n    \"discharge_diagnoses\": [\"coronary artery disease\", \"status post coronary artery bypass graft\"],\n    \"high_risk_medications\": [\"plavix\", \"insulin\", \"lopressor\", \"captopril\"],\n    \"follow_up_instructions\": [\"Cardiology in 5-7 days\", \"Endocrinology after discharge from rehabilitation\"],\n    \"discharge_disposition\": \"rehab\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cerebrovascular accident\", \"deep venous thrombosis\"],\n    \"discharge_diagnoses\": [\"seizure disorder\", \"end stage renal disease\"],\n    \"high_risk_medications\": [\"insulin\", \"coumadin\", \"heparin\", \"lovenox\"],\n    \"follow_up_instructions\": [\"[**hospital6 407**] services\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"still symptomatic\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"serotonin syndrome overdose\", \"depression/anxiety\"],\n    \"high_risk_medications\": [\"lorazepam\", \"senna\", \"acetaminophen\"],\n    \"follow_up_instructions\": [\"follow up with pcp and psychiatric as soon as possible post discharge\"],\n    \"discharge_disposition\": \"extended care facility: hospital - location (un) 10059\",\n    \"condition_at_discharge\": \"mental status: clear and coherent. level of consciousness: alert and interactive. activity status: ambulatory - independent.\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"ich evacuation and ip shunt placement for hydrocephalus\"],\n    \"discharge_diagnoses\": [\"drug related esosinophilia and systemic symptoms\", \"metastatic melanoma\"],\n    \"high_risk_medications\": [\"dilantin\", \"keppra\"],\n    \"follow_up_instructions\": [\"[**company 191**] post [**hospital 894**] clinic phone:[**telephone/fax (1) 250**] date/time:[**2163-1-31 10:00am**]\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"ambulatory - independent\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"Necrotizing enterocolitis at 5 weeks of age, Bowel resection at 41 weeks of age\"],\n    \"discharge_diagnoses\": [\"Prematurity at 27 and 1/7 weeks gestation, Status post respiratory distress syndrome, Status post chronic lung disease, Status post apnea of prematurity, Status post patent ductus arteriosus, Necrotizing enterocolitis, Status post bowel resection for colonic stricture, Status post staphylococcal aureus tracheitis, Direct hyperbilirubinemia, Retinopathy of prematurity, Multiple capillary hemangiomas\"],\n    \"high_risk_medications\": [\"Ferrous sulfate, Goldline baby vitamins\"],\n    \"follow_up_instructions\": [\"Appointment with primary pediatrician within 5 days of discharge, Pediatric surgery at [**hospital3 1810**] on [**2119-2-15**], Pediatric ophthalmology week of [**2119-2-13**]\"],\n    \"discharge_disposition\": \"Home with the parents\",\n    \"condition_at_discharge\": \"Good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"alcoholic hepatitis in 2021\", \"upper gastrointestinal bleed in 2022\"],\n    \"discharge_diagnoses\": [\"upper gastrointestinal bleed\", \"portal gastropathy\", \"transjugular intrahepatic portosystemic shunt\", \"alcoholic hepatitis\", \"hepatitis b\", \"hepatitis c\"],\n    \"high_risk_medications\": [\"octreotide\", \"levofloxacin\", \"metronidazole\", \"pantoprazole\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\"],\n    \"discharge_disposition\": \"to the [**location 1268**] va\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"lap nissen [**10-3**]\", \"lysis of adhesions and incisional hernia repair [**10-3**]\", \"multiple (r) knee arthroscopy (including [**9-1**])\", \"umbilical incisional hernia repair\", \"lap cholecystectomy [**2149**]\", \"(l) shoulder replacement approximately 10y ago with revision approximately 5y ago\"],\n    \"discharge_diagnoses\": [\"duodenal ulcer with hemorrhage\"],\n    \"high_risk_medications\": [\"dilaudid\", \"insulin (implied from 'sliding scale insulin')\"],\n    \"follow_up_instructions\": [\"Cardiology in 7-10 days\", \"Surgeon in 2 months\", \"Primary care provider (pcp) as advised\", \"Nutritional support service\"],\n    \"discharge_disposition\": \"home with service\",\n    \"condition_at_discharge\": \"ambulatory - independent\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cervical spine injury (s/p rod) [**2176**]\", \"low back pain ?cva (noted on prior ct scan/mri)\"],\n    \"discharge_diagnoses\": [\"atrial fibrillation\"],\n    \"high_risk_medications\": [\"dofetilide\", \"hydromorphone\", \"indomethacin\", \"coumadin\"],\n    \"follow_up_instructions\": [\"dr. [**last name (stitle) **] for 1-2 weeks\", \"dr. [**last name (stitle) 914**] for 4 weeks\", \"dr. [**first name8 (namepattern2) **] [**name (stitle) **] (neurology) in 2 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"gastrointestinal bleed in 2188-2-23\", \"alcoholic cirrhosis in unknown date\", \"varices in unknown date\", \"status post tips with occlusion in 2188-3-11\", \"hepatic encephalopathy in 2188-3-28\"],\n    \"discharge_diagnoses\": [\"gastrointestinal bleed\", \"alcoholic cirrhosis\", \"depression\", \"varices\", \"status post tips with occlusion\", \"hepatic encephalopathy\", \"hyponatremia\", \"barrett's esophagus\", \"pulmonary artery systolic hypertension by echocardiogram\"],\n    \"high_risk_medications\": [\"protonix\", \"ciprofloxacin\", \"flagyl\", \"lactulose\"],\n    \"follow_up_instructions\": [\"Liver clinic on 2188-4-3 at 2 o'clock\", \"Primary care physician within the next two weeks\", \"Social work appointment on the same day\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\", \"Endocarditis in 2020\"],\n    \"discharge_diagnoses\": [\"GI bleeding\", \"Bacteremia\"],\n    \"high_risk_medications\": [\"unasyn\", \"pantoprazole\", \"nadolol\", \"acetaminophen\", \"furosemide\", \"albuterol sulfate\", \"potassium chloride\", \"ferrous sulfate\", \"tamsulosin\"],\n    \"follow_up_instructions\": [\"Cardiology in 7-28 days\", \"Primary care in 2144-3-2\"],\n    \"discharge_disposition\": \"Extended care facility\",\n    \"condition_at_discharge\": \"Good\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"fall\", \"rib fractures\", \"pulmonary emboli\", \"l2 fracture\"],\n    \"high_risk_medications\": [\"oxycodone\", \"dilaudid\", \"warfarin\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\", \"Trauma in 2 weeks\", \"Orthoepdic Spine in 2 weeks\"],\n    \"discharge_disposition\": \"Extended Care Facility: hospital6 1293 - location (un) 1294\",\n    \"condition_at_discharge\": \"Ambulatory - requires assistance or aid (walker or cane)\"\n}",
+    "label": "yes"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"cerebellar mass\"],\n    \"discharge_diagnoses\": [\"cerebellar mass\", \"complete heart block\", \"anemia\", \"hypokalemia\"],\n    \"high_risk_medications\": [\"heparin\", \"lorazepam\", \"trazodone\", \"risperidone\", \"pantoprazole\"],\n    \"follow_up_instructions\": [\"follow up with dr. [**last name (stitle) **] in 4 weeks with a head ct.\"],\n    \"discharge_disposition\": \"extended care facility: [**hospital6 25759**] & rehab center - [**location (un) **]\",\n    \"condition_at_discharge\": \"neurologically stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"Atrial fibrillation\", \"Pericardial effusion\"],\n    \"high_risk_medications\": [\"Dabigatran etexilate\", \"Pradaxa\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\"],\n    \"discharge_disposition\": \"home\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"anoxic brain injury, sdh [**2161-8-29**]\", \"dvt, ivda, mrsa in nares, respiratory failure, scabies\"],\n    \"discharge_diagnoses\": [\"fever\"],\n    \"high_risk_medications\": [\"methadone\", \"lorazepam\", \"valproic acid\", \"amoxcillin-clavulate\"],\n    \"follow_up_instructions\": [\"Cardiology in 2 weeks\"],\n    \"discharge_disposition\": \"extended care facility: [**hospital 5503**]\",\n    \"condition_at_discharge\": \"mental status: oriented to name, place, but occasionally disoriented to time and place level of consciousness: alert, answers questions activity status: ambulatory - needs assistance, contracture left arm\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"CHF in 2021\"],\n    \"discharge_diagnoses\": [\"Hypercarbic respiratory failure secondary to COPD\", \"Tracheobronchitis\", \"Congestive heart failure\", \"Hyponatremia\", \"Change in mental status\"],\n    \"high_risk_medications\": [\"Levaquin\", \"Prednisone\"],\n    \"follow_up_instructions\": [\"Rehabilitation\"],\n    \"discharge_disposition\": \"Rehabilitation\",\n    \"condition_at_discharge\": \"Stable\"\n}",
+    "label": "no"
+  },
+  {
+    "text": "{\n    \"past_hospitalizations\": [\"aortic stenosis in 2029\"],\n    \"discharge_diagnoses\": [\"aortic stenosis s/p aortic valve replacement\"],\n    \"high_risk_medications\": [\"hydromorphone\"],\n    \"follow_up_instructions\": [\"[hospital 409] clinic in 2 weeks, dr [last name (stitle)] in [2-22] weeks, dr [last name (stitle)] in 4 weeks\"],\n    \"discharge_disposition\": \"home with VNA\",\n    \"condition_at_discharge\": \"stable\"\n}",
+    "label": "no"
+  }
+]
